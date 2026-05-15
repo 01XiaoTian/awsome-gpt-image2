@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Warm reading nook preview</title>
+  <desc id="desc">A warm interior preview with an armchair, window, lamp, plants, and books.</desc>
+  <rect width="1600" height="900" fill="#e8ddcf"/>
+  <rect x="0" y="682" width="1600" height="218" fill="#b98d67"/>
+  <rect x="118" y="108" width="426" height="548" rx="8" fill="#9cb8bd"/>
+  <path d="M331 108v548M118 382h426" stroke="#f4eadf" stroke-width="22"/>
+  <g stroke="#eff8fa" stroke-width="5" opacity=".52">
+    <path d="M178 132l-40 500M274 132l-44 500M454 132l-46 500"/>
+  </g>
+  <rect x="850" y="142" width="455" height="34" rx="17" fill="#9a6b42"/>
+  <rect x="875" y="214" width="390" height="28" rx="14" fill="#9a6b42"/>
+  <rect x="898" y="281" width="345" height="28" rx="14" fill="#9a6b42"/>
+  <g>
+    <rect x="905" y="101" width="38" height="104" fill="#7c8e5c"/>
+    <rect x="950" y="84" width="26" height="120" fill="#d6b369"/>
+    <rect x="985" y="115" width="54" height="90" fill="#b15d52"/>
+    <rect x="1048" y="94" width="30" height="110" fill="#566a83"/>
+  </g>
+  <path d="M626 595c18-123 93-198 214-194 115 3 186 73 205 194l35 222H590z" fill="#b86956"/>
+  <path d="M671 584c19-76 74-121 168-121 91 0 145 45 164 121l25 154H646z" fill="#d99b86"/>
+  <rect x="700" y="648" width="252" height="76" rx="38" fill="#ba735f"/>
+  <rect x="1114" y="575" width="180" height="40" rx="20" fill="#805b3d"/>
+  <rect x="1184" y="612" width="18" height="170" fill="#6f4d35"/>
+  <rect x="1142" y="612" width="18" height="170" fill="#6f4d35"/>
+  <circle cx="1247" cy="535" r="38" fill="#f4efe2"/>
+  <path d="M1215 539c22 16 44 16 66 0" fill="none" stroke="#bf8a5d" stroke-width="8"/>
+  <path d="M1370 220h36v552h-36z" fill="#7a644d"/>
+  <path d="M1318 208h140l-32-82h-76z" fill="#d9b768"/>
+  <ellipse cx="1388" cy="227" rx="112" ry="34" fill="#f6d982" opacity=".35"/>
+  <ellipse cx="805" cy="808" rx="360" ry="54" fill="#734d3d" opacity=".24"/>
+  <text x="70" y="816" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#402f26">Warm Reading Nook</text>
+  <text x="70" y="866" font-family="Arial, sans-serif" font-size="24" fill="#6f5647">Interior prompt case</text>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "id": "jazz-night-poster",
+  "title": "Jazz Night Poster",
+  "category": "poster",
+  "model": "GPT Image 2",
+  "created_at": "2026-05-15",
+  "aspect_ratio": "2:3",
+  "style": "vintage poster illustration",
+  "license": "CC BY 4.0",
+  "tags": ["poster", "music", "branding", "vintage"],
+  "image_files": ["preview.svg"]
+}

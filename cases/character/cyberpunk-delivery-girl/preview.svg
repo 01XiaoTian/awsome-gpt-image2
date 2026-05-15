@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1500" role="img" aria-labelledby="title desc">
+  <title id="title">Cyberpunk delivery girl preview</title>
+  <desc id="desc">A neon-lit character concept preview of a futuristic delivery rider.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#11151c"/>
+      <stop offset=".55" stop-color="#183442"/>
+      <stop offset="1" stop-color="#1b1027"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="1500" fill="url(#bg)"/>
+  <g opacity=".55" filter="url(#glow)">
+    <rect x="64" y="145" width="210" height="46" fill="#ec4ed5"/>
+    <rect x="712" y="210" width="190" height="38" fill="#3cf0ff"/>
+    <rect x="93" y="385" width="150" height="34" fill="#ffd166"/>
+    <rect x="746" y="480" width="120" height="34" fill="#ec4ed5"/>
+  </g>
+  <path d="M0 1160c206-50 354-40 494 5s300 66 506 4v331H0z" fill="#101820"/>
+  <ellipse cx="503" cy="1198" rx="270" ry="66" fill="#59dbe8" opacity=".18"/>
+  <g>
+    <path d="M403 392c31-80 155-83 196-7 18 34 14 86-7 123l-170 4c-29-37-35-80-19-120z" fill="#202832"/>
+    <circle cx="503" cy="505" r="92" fill="#d9a78e"/>
+    <path d="M401 498c30-125 184-143 227-11-71-17-138-16-227 11z" fill="#101820"/>
+    <path d="M446 552c39 25 78 25 117 0" fill="none" stroke="#7d4f48" stroke-width="8" stroke-linecap="round"/>
+    <path d="M354 705c30-92 85-139 151-139 72 0 126 49 157 142l58 228-87 34-35-150-18 347H431l-21-347-38 153-88-34z" fill="#293948"/>
+    <path d="M392 728c72 47 146 48 224 0l23 110c-92 43-183 41-272-5z" fill="#36d8e7" opacity=".72"/>
+    <path d="M367 672c-38 48-64 120-83 267M638 673c40 58 67 145 82 263" fill="none" stroke="#ec4ed5" stroke-width="16" stroke-linecap="round"/>
+    <rect x="605" y="610" width="140" height="240" rx="34" fill="#15212b"/>
+    <path d="M634 650h82M634 708h70M634 766h90" stroke="#52f1ff" stroke-width="10" stroke-linecap="round" filter="url(#glow)"/>
+    <path d="M430 1160l-46 158h88l27-158zM577 1160l38 158h90l-59-158z" fill="#111820"/>
+  </g>
+  <g stroke="#b6f9ff" stroke-width="4" opacity=".28">
+    <path d="M144 0l-34 1500M358 0l-51 1500M642 0l-46 1500M875 0l-35 1500"/>
+  </g>
+  <text x="60" y="92" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff">Cyberpunk Delivery Girl</text>
+  <text x="60" y="146" font-family="Arial, sans-serif" font-size="24" fill="#9deef4">Character prompt case</text>
+</svg>

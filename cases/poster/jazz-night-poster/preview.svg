@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1500" role="img" aria-labelledby="title desc">
+  <title id="title">Jazz night poster preview</title>
+  <desc id="desc">A vintage jazz poster preview with saxophone, moon, and art-deco shapes.</desc>
+  <rect width="1000" height="1500" fill="#10163a"/>
+  <rect x="54" y="54" width="892" height="1392" fill="none" stroke="#d9b35d" stroke-width="12"/>
+  <rect x="88" y="88" width="824" height="1324" fill="none" stroke="#f1e4c2" stroke-width="3" opacity=".5"/>
+  <circle cx="500" cy="632" r="250" fill="#24306c"/>
+  <circle cx="500" cy="632" r="214" fill="#d9b35d"/>
+  <path d="M637 365c-75 164-171 315-286 454 48 17 85 48 110 94 39-18 70-44 93-77 49-72 83-168 132-329 20-66 3-113-49-142z" fill="#261a26"/>
+  <path d="M357 847c-55 33-92 82-111 148-13 47 22 92 70 90 72-4 126-43 162-118-21-64-61-104-121-120z" fill="#d9b35d"/>
+  <circle cx="315" cy="997" r="57" fill="#10163a"/>
+  <path d="M638 361c35 9 59 31 72 65 6 16 24 24 40 17l49-21c31-13 37-55 11-76-54-45-116-64-186-58-27 2-39 39-17 55 9 7 20 13 31 18z" fill="#d9b35d"/>
+  <g fill="none" stroke="#e8d4a0" stroke-width="7" opacity=".7">
+    <path d="M168 612c88-74 167-74 236 0M596 612c77-74 156-74 236 0"/>
+    <path d="M188 745c96-66 178-66 246 0M576 745c86-66 166-66 236 0"/>
+  </g>
+  <text x="500" y="222" text-anchor="middle" font-family="Georgia, serif" font-size="76" font-weight="700" fill="#f1e4c2">Blue Hour</text>
+  <text x="500" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="46" fill="#d9b35d">Sessions</text>
+  <path d="M208 1158h584" stroke="#d9b35d" stroke-width="5"/>
+  <text x="500" y="1240" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#f1e4c2">Jazz Night Poster</text>
+  <text x="500" y="1292" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#d9b35d">Poster prompt case</text>
+  <circle cx="246" cy="1110" r="9" fill="#c84d4a"/>
+  <circle cx="754" cy="1110" r="9" fill="#c84d4a"/>
+</svg>

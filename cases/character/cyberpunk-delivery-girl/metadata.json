@@ -1,0 +1,12 @@
+{
+  "id": "cyberpunk-delivery-girl",
+  "title": "Cyberpunk Delivery Girl",
+  "category": "character",
+  "model": "GPT Image 2",
+  "created_at": "2026-05-15",
+  "aspect_ratio": "2:3",
+  "style": "cinematic character concept",
+  "license": "CC BY 4.0",
+  "tags": ["character", "neon", "cinematic", "game"],
+  "image_files": ["preview.svg"]
+}

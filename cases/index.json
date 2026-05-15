@@ -1,0 +1,34 @@
+[
+  {
+    "id": "minimal-sneaker-ad",
+    "title": "Minimal Sneaker Ad",
+    "category": "product",
+    "path": "cases/product/minimal-sneaker-ad",
+    "preview": "cases/product/minimal-sneaker-ad/preview.svg",
+    "tags": ["product", "studio-light", "minimal", "ecommerce"]
+  },
+  {
+    "id": "cyberpunk-delivery-girl",
+    "title": "Cyberpunk Delivery Girl",
+    "category": "character",
+    "path": "cases/character/cyberpunk-delivery-girl",
+    "preview": "cases/character/cyberpunk-delivery-girl/preview.svg",
+    "tags": ["character", "neon", "cinematic", "game"]
+  },
+  {
+    "id": "warm-reading-nook",
+    "title": "Warm Reading Nook",
+    "category": "interior",
+    "path": "cases/interior/warm-reading-nook",
+    "preview": "cases/interior/warm-reading-nook/preview.svg",
+    "tags": ["interior", "warm", "lifestyle", "editorial"]
+  },
+  {
+    "id": "jazz-night-poster",
+    "title": "Jazz Night Poster",
+    "category": "poster",
+    "path": "cases/poster/jazz-night-poster",
+    "preview": "cases/poster/jazz-night-poster/preview.svg",
+    "tags": ["poster", "music", "branding", "vintage"]
+  }
+]

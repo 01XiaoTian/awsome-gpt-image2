@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img" aria-labelledby="title desc">
+  <title id="title">Minimal sneaker ad preview</title>
+  <desc id="desc">A clean product-ad style illustration of a futuristic white sneaker above a stone pedestal.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7f7f2"/>
+      <stop offset="1" stop-color="#dbe3e8"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="36" stdDeviation="28" flood-color="#6f7c86" flood-opacity=".35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#bg)"/>
+  <ellipse cx="600" cy="1055" rx="320" ry="58" fill="#8a97a1" opacity=".22"/>
+  <rect x="318" y="970" width="564" height="190" rx="28" fill="#c8cdd0"/>
+  <path d="M350 980h500c28 0 43 31 25 53l-38 48H382l-54-64c-13-15-2-37 22-37z" fill="#e4e5e3"/>
+  <g filter="url(#shadow)">
+    <path d="M267 776c106-58 196-72 284-48 86 23 147 82 251 94 52 6 91-5 127-20 24-10 52 4 59 29l18 67c7 27-11 54-38 58-214 31-417 25-609-16-77-16-126-46-147-89-15-32 10-58 55-75z" fill="#f8f9f7"/>
+    <path d="M344 795c98-40 177-43 257-13 61 22 103 57 184 65 52 5 92-6 132-22l20 79c-179 24-360 17-544-22-58-12-96-29-116-51 13-13 35-25 67-36z" fill="#eef1f1"/>
+    <path d="M492 735c48 6 89 22 128 48l-48 80-166-29 44-85c12-11 26-16 42-14z" fill="#d5dde2"/>
+    <path d="M619 790c48 27 90 46 144 55l-34 67-141-22 34-100z" fill="#cfd8df"/>
+    <path d="M335 891c201 51 410 58 626 25" fill="none" stroke="#a9b3b9" stroke-width="22" stroke-linecap="round"/>
+    <path d="M434 781l-35 75M510 775l-37 91M590 795l-43 91" stroke="#9ba8b0" stroke-width="10" stroke-linecap="round"/>
+    <path d="M692 864c47 19 102 19 162 3" fill="none" stroke="#9fc2d5" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <text x="90" y="132" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#17202a">Minimal Sneaker Ad</text>
+  <text x="90" y="198" font-family="Arial, sans-serif" font-size="26" fill="#52616b">Product photography prompt case</text>
+</svg>
