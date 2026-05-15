@@ -1,0 +1,16 @@
+{
+  "id": "web-boston-spring-city-poster",
+  "title": "Boston Spring 2026 City Poster",
+  "category": "poster",
+  "model": "GPT Image 2",
+  "source_repository": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+  "source_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+  "original_post_url": "https://x.com/BubbleBrain/status/2045358053831172358",
+  "author": "@BubbleBrain",
+  "license": "CC0-1.0",
+  "external_image_urls": [
+    "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case1/output.jpg"
+  ],
+  "rights_notes": "Source repository declares CC0. City landmarks may be subject to local trademark or publicity considerations in commercial contexts.",
+  "tags": ["poster", "travel", "city", "illustration"]
+}

@@ -20,6 +20,20 @@
 | Interior | Warm Reading Nook | ![Warm reading nook](cases/interior/warm-reading-nook/preview.svg) | 室内设计、生活方式视觉 |
 | Poster | Jazz Night Poster | ![Jazz night poster](cases/poster/jazz-night-poster/preview.svg) | 活动海报、品牌视觉 |
 
+## Web Curated Cases
+
+第一批全网检索案例已加入 `cases/web-curated/`。这些案例来自公开 prompt gallery，并在每个案例中保留原作者、来源链接、许可证和外部图片链接。
+
+| 来源 | 案例 | 图片 | 许可证 |
+| --- | --- | --- | --- |
+| EvoLinkAI | Miniature Diorama Skincare Advertisement | ![Skincare diorama](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case151/output.jpg) | CC0 |
+| EvoLinkAI | Luxury Chronograph Watch Ad | ![Watch ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case144/output.jpg) | CC0 |
+| EvoLinkAI | Boston Spring 2026 City Poster | ![Boston poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case1/output.jpg) | CC0 |
+| EvoLinkAI | Iced Coffee Product Infographic | ![Iced coffee infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case170/output.jpg) | CC0 |
+| EvoLinkAI | One-Prompt UI Design Generation | ![UI design generation](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case1/output.jpg) | CC0 |
+| YouMind OpenLab | Illustrated City Food Map | ![Illustrated city food map](https://cms-assets.youmind.com/media/1776662673014_nf0taw_HGRMNDybsAAGG88.jpg) | CC BY 4.0 |
+| YouMind OpenLab | Anime Martial Arts Battle Illustration | ![Anime martial arts battle](https://cms-assets.youmind.com/media/1776756799880_c8u8w7_HGUKjjaasAAvVRa.jpg) | CC BY 4.0 |
+
 ## 单个案例结构
 
 ```text
@@ -55,6 +69,7 @@ cases/<category>/<case-name>/
 - 不提交侵犯版权、商标或个人肖像权的内容。
 - 不把未授权的第三方图片作为生成参考或结果图提交。
 - 如果图片来自 GPT Image 2 或其他模型，请在 `metadata.json` 中标注。
+- 来自外部 prompt gallery 的案例必须保留 `source_url`、`author`、`license` 和 `external_image_urls`。
 
 ## License
 

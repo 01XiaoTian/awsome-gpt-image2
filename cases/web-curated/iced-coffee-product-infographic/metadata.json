@@ -1,0 +1,16 @@
+{
+  "id": "web-iced-coffee-product-infographic",
+  "title": "Iced Coffee Product Infographic",
+  "category": "poster",
+  "model": "GPT Image 2",
+  "source_repository": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+  "source_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+  "original_post_url": "https://x.com/Strength04_X/status/2049082049995362785",
+  "author": "@Strength04_X",
+  "license": "CC0-1.0",
+  "external_image_urls": [
+    "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case170/output.jpg"
+  ],
+  "rights_notes": "Source repository declares CC0.",
+  "tags": ["infographic", "beverage", "product", "commercial"]
+}

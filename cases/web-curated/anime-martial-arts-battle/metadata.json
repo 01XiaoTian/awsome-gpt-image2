@@ -1,0 +1,17 @@
+{
+  "id": "web-anime-martial-arts-battle",
+  "title": "Anime Martial Arts Battle Illustration",
+  "category": "character",
+  "model": "GPT Image 2",
+  "source_repository": "YouMind-OpenLab/awesome-gpt-image-2",
+  "source_url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
+  "gallery_url": "https://youmind.com/gpt-image-2-prompts?id=13467",
+  "original_post_url": "https://x.com/Tanemomi_Ver2/status/2046063806846214265#reversed-0",
+  "author": "たねもみ 2.0 / Tanemomi Ver2.0",
+  "license": "CC BY 4.0",
+  "external_image_urls": [
+    "https://cms-assets.youmind.com/media/1776756799880_c8u8w7_HGUKjjaasAAvVRa.jpg"
+  ],
+  "rights_notes": "Source repository declares CC BY 4.0. Attribution retained in prompt.md and metadata.json.",
+  "tags": ["character", "anime", "action", "illustration"]
+}

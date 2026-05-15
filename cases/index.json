@@ -30,5 +30,75 @@
     "path": "cases/poster/jazz-night-poster",
     "preview": "cases/poster/jazz-night-poster/preview.svg",
     "tags": ["poster", "music", "branding", "vintage"]
+  },
+  {
+    "id": "web-skincare-miniature-diorama",
+    "title": "Miniature Diorama Skincare Advertisement",
+    "category": "product",
+    "path": "cases/web-curated/skincare-miniature-diorama",
+    "external_preview": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case151/output.jpg",
+    "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+    "license": "CC0-1.0",
+    "tags": ["product", "ecommerce", "miniature", "commercial"]
+  },
+  {
+    "id": "web-luxury-chronograph-watch-ad",
+    "title": "Luxury Chronograph Watch Ad",
+    "category": "product",
+    "path": "cases/web-curated/luxury-chronograph-watch-ad",
+    "external_preview": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case144/output.jpg",
+    "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+    "license": "CC0-1.0",
+    "tags": ["product", "watch", "luxury", "advertising"]
+  },
+  {
+    "id": "web-boston-spring-city-poster",
+    "title": "Boston Spring 2026 City Poster",
+    "category": "poster",
+    "path": "cases/web-curated/boston-spring-city-poster",
+    "external_preview": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case1/output.jpg",
+    "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+    "license": "CC0-1.0",
+    "tags": ["poster", "travel", "city", "illustration"]
+  },
+  {
+    "id": "web-iced-coffee-product-infographic",
+    "title": "Iced Coffee Product Infographic",
+    "category": "poster",
+    "path": "cases/web-curated/iced-coffee-product-infographic",
+    "external_preview": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case170/output.jpg",
+    "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+    "license": "CC0-1.0",
+    "tags": ["infographic", "beverage", "product", "commercial"]
+  },
+  {
+    "id": "web-one-prompt-ui-design-generation",
+    "title": "One-Prompt UI Design Generation",
+    "category": "ui",
+    "path": "cases/web-curated/one-prompt-ui-design-generation",
+    "external_preview": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case1/output.jpg",
+    "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+    "license": "CC0-1.0",
+    "tags": ["ui", "design-system", "mobile", "web"]
+  },
+  {
+    "id": "web-illustrated-city-food-map",
+    "title": "Illustrated City Food Map",
+    "category": "poster",
+    "path": "cases/web-curated/illustrated-city-food-map",
+    "external_preview": "https://cms-assets.youmind.com/media/1776662673014_nf0taw_HGRMNDybsAAGG88.jpg",
+    "source": "YouMind-OpenLab/awesome-gpt-image-2",
+    "license": "CC BY 4.0",
+    "tags": ["map", "food", "infographic", "watercolor"]
+  },
+  {
+    "id": "web-anime-martial-arts-battle",
+    "title": "Anime Martial Arts Battle Illustration",
+    "category": "character",
+    "path": "cases/web-curated/anime-martial-arts-battle",
+    "external_preview": "https://cms-assets.youmind.com/media/1776756799880_c8u8w7_HGUKjjaasAAvVRa.jpg",
+    "source": "YouMind-OpenLab/awesome-gpt-image-2",
+    "license": "CC BY 4.0",
+    "tags": ["character", "anime", "action", "illustration"]
   }
 ]
