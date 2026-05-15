@@ -1,76 +1,101 @@
-# GPT Image 2 Prompt Gallery
+# Awesome GPT Image 2 Prompts
 
-一个开源的 GPT Image 2 提示词与图片案例库，用来沉淀可复用的图像生成提示词、参数配置、成品图和复盘笔记。
+一个开源的 GPT Image 2 提示词与图片案例库，收集可复用的图像生成提示词、图片案例、参数建议、负向约束和复盘笔记。
 
-> 说明：仓库中的示例图片用于展示案例组织方式。提交真实案例时，请确认图片版权、模型来源和使用许可。
+> 当前画廊整理了 **28 个 Prompt Cards**，覆盖产品广告、海报、角色、UI、室内、食物、时尚、游戏、图解和插画等场景。
 
-## 仓库内容
+## Browse
 
-- `cases/`：按场景分类的提示词与图片案例
-- `prompts/templates/`：可复用提示词模板
-- `docs/`：分类规范、写作建议和版权说明
-- `CONTRIBUTING.md`：贡献案例的格式与流程
+- [完整画廊：按分类直接看提示词摘要](GALLERY.md)
+- [结构化案例目录](cases/)
+- [案例索引 JSON](cases/index.json)
+- [提示词写作指南](docs/prompt-writing.md)
+- [外部来源与许可证](docs/sources.md)
 
-## 案例画廊
+## Categories
 
-| 分类 | 案例 | 预览 | 适合用途 |
-| --- | --- | --- | --- |
-| Product | Minimal Sneaker Ad | ![Minimal sneaker ad](cases/product/minimal-sneaker-ad/preview.svg) | 电商主图、广告概念图 |
-| Character | Cyberpunk Delivery Girl | ![Cyberpunk delivery girl](cases/character/cyberpunk-delivery-girl/preview.svg) | 角色设定、游戏概念 |
-| Interior | Warm Reading Nook | ![Warm reading nook](cases/interior/warm-reading-nook/preview.svg) | 室内设计、生活方式视觉 |
-| Poster | Jazz Night Poster | ![Jazz night poster](cases/poster/jazz-night-poster/preview.svg) | 活动海报、品牌视觉 |
+| Category | Count | Examples |
+| --- | ---: | --- |
+| Product | 7 | sneaker ad, perfume campaign, tea set, desk setup, packaging |
+| Poster | 7 | city poster, jazz poster, museum key visual, market poster |
+| Character | 4 | cyberpunk courier, sci-fi medic sheet, storybook guide |
+| UI | 3 | finance dashboard, travel booking flow, design system |
+| Portrait | 1 | editorial chef portrait |
+| Interior | 1 | warm reading nook |
+| Food | 1 | fine-dining dessert photo |
+| Fashion | 1 | streetwear lookbook spread |
+| Game | 1 | isometric farm scene |
+| Diagram | 1 | scientific paper figure |
+| Illustration | 1 | silent comic page |
 
-## Web Curated Cases
+## Featured Prompt Cards
 
-第一批全网检索案例已加入 `cases/web-curated/`。这些案例来自公开 prompt gallery，并在每个案例中保留原作者、来源链接、许可证和外部图片链接。
-
-| 来源 | 案例 | 图片 | 许可证 |
-| --- | --- | --- | --- |
-| EvoLinkAI | Miniature Diorama Skincare Advertisement | ![Skincare diorama](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case151/output.jpg) | CC0 |
-| EvoLinkAI | Luxury Chronograph Watch Ad | ![Watch ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case144/output.jpg) | CC0 |
-| EvoLinkAI | Boston Spring 2026 City Poster | ![Boston poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case1/output.jpg) | CC0 |
-| EvoLinkAI | Iced Coffee Product Infographic | ![Iced coffee infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case170/output.jpg) | CC0 |
-| EvoLinkAI | One-Prompt UI Design Generation | ![UI design generation](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case1/output.jpg) | CC0 |
-| YouMind OpenLab | Illustrated City Food Map | ![Illustrated city food map](https://cms-assets.youmind.com/media/1776662673014_nf0taw_HGRMNDybsAAGG88.jpg) | CC BY 4.0 |
-| YouMind OpenLab | Anime Martial Arts Battle Illustration | ![Anime martial arts battle](https://cms-assets.youmind.com/media/1776756799880_c8u8w7_HGUKjjaasAAvVRa.jpg) | CC BY 4.0 |
-
-## 单个案例结构
+### Holographic Perfume Campaign
 
 ```text
-cases/<category>/<case-name>/
-  prompt.md       # 正向提示词、负向约束、改写建议
-  metadata.json   # 模型、比例、种子、风格标签等结构化信息
-  preview.svg     # 图片案例预览，可替换为 png/jpg/webp
-  notes.md        # 复盘：哪里有效、哪里可改进
+Create a square luxury fragrance campaign image featuring a transparent glass perfume bottle with a fictional label reading 'AURORA VEIL'. The bottle stands on a glossy black acrylic surface with holographic light caustics, soft mist, and delicate refractions through the glass...
 ```
 
-## 快速开始
+### Finance Dashboard Dark Mode
 
-1. 复制 `prompts/templates/case-template.md`。
-2. 在 `cases/<category>/<case-name>/` 下创建新案例。
-3. 填写提示词、参数、图片和复盘说明。
-4. 在 `cases/index.json` 中登记案例。
-5. 提交 PR。
+```text
+Create a polished dark-mode SaaS finance dashboard UI for a small business owner. Show a left navigation rail, top filter bar, revenue KPI cards, cash-flow line chart, expense category bars, invoice status table, and a compact alerts panel...
+```
 
-## 推荐案例分类
+### Sci-Fi Medic Character Sheet
 
-- `product`：产品摄影、广告图、电商图
-- `character`：人物、角色设定、头像
-- `interior`：室内、建筑、空间设计
-- `poster`：海报、封面、品牌视觉
-- `illustration`：插画、绘本、编辑视觉
-- `ui`：应用界面、网页视觉、图标
-- `food`：食物摄影、菜单图
-- `fashion`：服装、穿搭、Lookbook
+```text
+Create a professional sci-fi game character sheet for a battlefield medic from an original universe. Show one full-body front view, one three-quarter pose, and three close-up callouts for helmet visor, medical wrist scanner, and compact drone pack...
+```
 
-## 贡献原则
+### Illustrated City Food Map
 
-- 必须包含完整提示词和至少一张图片案例。
-- 不提交侵犯版权、商标或个人肖像权的内容。
-- 不把未授权的第三方图片作为生成参考或结果图提交。
-- 如果图片来自 GPT Image 2 或其他模型，请在 `metadata.json` 中标注。
-- 来自外部 prompt gallery 的案例必须保留 `source_url`、`author`、`license` 和 `external_image_urls`。
+```text
+{
+  "type": "illustrated map infographic",
+  "style": "watercolor and ink hand-drawn illustration on vintage parchment",
+  "title_section": "city food map with mascot, landmarks, food spots, legend"
+}
+```
+
+## Repository Structure
+
+```text
+cases/
+  index.json
+  product/<case-name>/
+  poster/<case-name>/
+  character/<case-name>/
+  web-curated/<case-name>/
+docs/
+  prompt-writing.md
+  sources.md
+  taxonomy.md
+prompts/templates/
+  case-template.md
+GALLERY.md
+```
+
+## Case Format
+
+每个结构化案例尽量包含：
+
+- `prompt.md`：完整提示词、负向约束、参数建议和案例说明
+- `metadata.json`：分类、标签、来源、许可证、图片文件或外部图片链接
+- `notes.md`：复盘、变化方向和复用建议
+- `preview.svg` / image URL：图片案例或预览
+
+## Source Policy
+
+- 原创案例使用轻量预览和完整提示词说明。
+- 外部精选案例优先选择公开仓库和明确许可证来源。
+- 不确定可再分发的图片只保留外部链接和来源信息。
+- 所有外部案例必须保留 `source_url`、`author`、`license` 和 `external_image_urls`。
+
+## Contributing
+
+欢迎提交新的 GPT Image 2 提示词案例。请参考 [CONTRIBUTING.md](CONTRIBUTING.md)，并尽量提供完整正向提示词、负向约束、图片案例、参数建议、来源和许可证。
 
 ## License
 
-内容默认采用 [CC BY 4.0](LICENSE)，代码和结构模板可按 MIT 使用。提交者可以在单个案例中声明更严格的许可。
+内容默认采用 [CC BY 4.0](LICENSE)。单个案例如在 `metadata.json` 中声明了不同许可证，则以该案例声明为准。
