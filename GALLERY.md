@@ -6,17 +6,17 @@
 
 | Category | Count | Jump |
 | --- | ---: | --- |
-| product | 7 | [View](#product) |
+| product | 8 | [View](#product) |
 | poster | 7 | [View](#poster) |
 | character | 4 | [View](#character) |
-| portrait | 1 | [View](#portrait) |
-| ui | 3 | [View](#ui) |
+| portrait | 2 | [View](#portrait) |
+| ui | 4 | [View](#ui) |
 | interior | 1 | [View](#interior) |
 | food | 1 | [View](#food) |
 | fashion | 1 | [View](#fashion) |
 | game | 1 | [View](#game) |
-| diagram | 1 | [View](#diagram) |
-| illustration | 1 | [View](#illustration) |
+| diagram | 2 | [View](#diagram) |
+| illustration | 3 | [View](#illustration) |
 
 ## product
 
@@ -78,6 +78,21 @@ Create a square luxury fragrance campaign image featuring a transparent glass pe
 
 ```text
 A dramatic luxury product advertising image for a motorsport-inspired chronograph wristwatch in a dark studio. Center-left foreground, show a single stainless steel chronograph watch standing upright at a slight three-quarter angle, with a black dial, two red-accent subdials, slim silver hour markers, a tachymeter bezel, and visible crown and pushers on the...
+```
+
+### Luxury Wooden Door Detail
+
+![Luxury Wooden Door Detail]()
+
+- Path: [cases/web-curated/imgedify-luxury-wooden-door](cases/web-curated/imgedify-luxury-wooden-door/prompt.md)
+- Source: ImgEdify/Awesome-GPT4o-Image-Prompts
+- License: MIT
+- Tags: `product` `material` `macro` `photography`
+
+**Prompt Preview**
+
+```text
+A close-up photograph of a luxurious wooden door with detailed paneling and rich grain texture. The door features a custom-shaped doorknob in the form of the [LOGO_NAME] logo, made of polished material (metal, brass, ceramic, etc.) to look realistic and tangible. The handle is mounted on an antique bronze base, with soft, ambient lighting emphasizing the ref...
 ```
 
 ### Miniature Diorama Skincare Advertisement
@@ -314,6 +329,21 @@ Create a warm storybook character illustration of a young forest guide standing 
 Create an editorial portrait photograph of an independent chef standing in a small open kitchen after service. The chef wears a clean cream apron over a dark shirt, with relaxed posture, natural expression, and lightly flour-dusted hands. In the background, show soft bokeh from copper pans, herbs, and a warm prep light, but keep the face sharply focused. Use...
 ```
 
+### Typographic Portrait
+
+![Typographic Portrait]()
+
+- Path: [cases/web-curated/imgedify-typographic-portrait](cases/web-curated/imgedify-typographic-portrait/prompt.md)
+- Source: ImgEdify/Awesome-GPT4o-Image-Prompts
+- License: MIT
+- Tags: `portrait` `typography` `poster` `experimental`
+
+**Prompt Preview**
+
+```text
+Recreate the attached image as Typography Portrait. Subject is happiness.
+```
+
 
 ## ui
 
@@ -330,6 +360,21 @@ Create an editorial portrait photograph of an independent chef standing in a sma
 
 ```text
 Create a polished dark-mode SaaS finance dashboard UI for a small business owner. Show a left navigation rail, top filter bar, revenue KPI cards, cash-flow line chart, expense category bars, invoice status table, and a compact alerts panel. Use dense but readable spacing, crisp typography, subtle borders, muted charcoal surfaces, green positive indicators, a...
+```
+
+### Minimal 3D Icon Render
+
+![Minimal 3D Icon Render]()
+
+- Path: [cases/web-curated/imgedify-minimal-3d-icons](cases/web-curated/imgedify-minimal-3d-icons/prompt.md)
+- Source: ImgEdify/Awesome-GPT4o-Image-Prompts
+- License: MIT
+- Tags: `ui` `icon` `3d` `minimal`
+
+**Prompt Preview**
+
+```text
+minimalist 3D render, [Subject], soft matte finish, black and antique gold details, pristine white backdrop, isometric angle, ambient glow, feathered shadows, simple and elegant
 ```
 
 ### One-Prompt UI Design Generation
@@ -437,6 +482,21 @@ Create a cozy isometric game environment tile showing a tiny spring farm. Includ
 
 ## diagram
 
+### Retro-Futuristic Blueprint Schematic
+
+![Retro-Futuristic Blueprint Schematic]()
+
+- Path: [cases/web-curated/imgedify-blueprint-schematic](cases/web-curated/imgedify-blueprint-schematic/prompt.md)
+- Source: ImgEdify/Awesome-GPT4o-Image-Prompts
+- License: MIT
+- Tags: `diagram` `blueprint` `industrial` `vehicle`
+
+**Prompt Preview**
+
+```text
+A blueprint schematic of a retro-futuristic motorcycle, drawn in the style of early 20th-century industrial patents. Rendered in crisp blue ink with white technical lines, featuring exploded views, angular labels, and stamped diagram codes.
+```
+
 ### Science Paper Figure
 
 ![Science Paper Figure](cases/diagram/science-paper-figure/preview.svg)
@@ -468,6 +528,36 @@ Create a clean scientific paper figure explaining a three-step bio-sensing workf
 
 ```text
 Create a one-page silent comic with six panels about a child discovering a tiny glowing door in the wall of an old apartment. No speech bubbles. Panel 1 shows the quiet room at night, Panel 2 shows the child noticing light under peeling wallpaper, Panel 3 shows a close-up of a small brass doorknob, Panel 4 shows the door opening to a starry miniature landsca...
+```
+
+### Fluffy Swan Object
+
+![Fluffy Swan Object]()
+
+- Path: [cases/web-curated/imgedify-fluffy-swan](cases/web-curated/imgedify-fluffy-swan/prompt.md)
+- Source: ImgEdify/Awesome-GPT4o-Image-Prompts
+- License: MIT
+- Tags: `illustration` `3d` `tactile` `object`
+
+**Prompt Preview**
+
+```text
+Transform a simple flat vector illustration of a swan into a soft, 3D fluffy object. Use the exact colors. The shape is fully covered in fur, with hyperrealistic hair texture and soft shadows. The object is centered on a clean, light gray background and floats gently in space. The style is surreal, tactile, and modern, evoking a sense of comfort and playfuln...
+```
+
+### Low Poly Desert Camel
+
+![Low Poly Desert Camel]()
+
+- Path: [cases/web-curated/imgedify-low-poly-camel](cases/web-curated/imgedify-low-poly-camel/prompt.md)
+- Source: ImgEdify/Awesome-GPT4o-Image-Prompts
+- License: MIT
+- Tags: `illustration` `low-poly` `3d` `environment`
+
+**Prompt Preview**
+
+```text
+A low-poly 3D render of a camel, built from clean triangular facets with flat sandy beige and burnt orange surfaces. The environment is a stylized digital desert with minimal geometry and ambient occlusion.
 ```
 
 ## Notes

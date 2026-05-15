@@ -1,0 +1,628 @@
+{
+  "categoryCounts": [
+    {
+      "category": "character",
+      "count": 4
+    },
+    {
+      "category": "diagram",
+      "count": 2
+    },
+    {
+      "category": "fashion",
+      "count": 1
+    },
+    {
+      "category": "food",
+      "count": 1
+    },
+    {
+      "category": "game",
+      "count": 1
+    },
+    {
+      "category": "illustration",
+      "count": 3
+    },
+    {
+      "category": "interior",
+      "count": 1
+    },
+    {
+      "category": "portrait",
+      "count": 2
+    },
+    {
+      "category": "poster",
+      "count": 7
+    },
+    {
+      "category": "product",
+      "count": 8
+    },
+    {
+      "category": "ui",
+      "count": 4
+    }
+  ],
+  "cases": [
+    {
+      "id": "web-anime-martial-arts-battle",
+      "title": "Anime Martial Arts Battle Illustration",
+      "category": "character",
+      "path": "cases/web-curated/anime-martial-arts-battle",
+      "image": "assets/images/web-anime-martial-arts-battle.jpg",
+      "source": "YouMind-OpenLab/awesome-gpt-image-2",
+      "license": "CC BY 4.0",
+      "tags": [
+        "character",
+        "anime",
+        "action",
+        "illustration"
+      ],
+      "prompt": "An anime-style illustration of a {argument name=\"action type\" default=\"high-impact martial arts battle\"} between two young female fighters in a {argument name=\"setting\" default=\"traditional wooden martial arts dojo\"}. In the foreground, a girl with black hair in a high bun wears a {argument name=\"character 1 color theme\" default=\"red and white\"} Chinese-style martial arts outfit with baggy pants.\n\nShe is in a dynamic, low, forward-thrusting stance, surrounded by swirling red energy and water splashes. In the background to the right, a girl with light purple hair in twin buns wears a {argument name=\"character 2 color theme\" default=\"green and purple\"} Chinese dress with gold embroidery and black tights. She is leaping through the air in a flying kick pose, surrounded by swirling blue energy. The wooden floorboards are splintering from the intense impact, with debris and dust flying through the air.\n\nAbove them hangs a weathered wooden sign with the text \"{argument name=\"sign text\" default=\"武術会\"}\". The scene features dramatic lighting, a low-angle dynamic perspective, and intense action effects.",
+      "excerpt": "An anime-style illustration of a {argument name=\"action type\" default=\"high-impact martial arts battle\"} between two young female fighters in a {argument name=\"setting\" default=\"traditional wooden martial arts dojo\"}. In..."
+    },
+    {
+      "id": "cyberpunk-delivery-girl",
+      "title": "Cyberpunk Delivery Girl",
+      "category": "character",
+      "path": "cases/character/cyberpunk-delivery-girl",
+      "image": "cases/character/cyberpunk-delivery-girl/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "character",
+        "neon",
+        "cinematic",
+        "game"
+      ],
+      "prompt": "Create a cinematic character concept image of a young futuristic delivery rider standing under neon rain in a dense cyberpunk alley. She wears a lightweight reflective courier jacket, a compact backpack with glowing route indicators, fingerless gloves, and practical streetwear boots. Her expression is calm and focused, with rain droplets on her hair and jacket. The background shows layered signs, wet pavement reflections, distant food stalls, and soft steam. Use a three-quarter body composition, 35mm lens feeling, teal and magenta neon lighting, and a grounded realistic illustration style. The character should feel capable, modern, and memorable without looking like an existing franchise character.",
+      "excerpt": "Create a cinematic character concept image of a young futuristic delivery rider standing under neon rain in a dense cyberpunk alley. She wears a lightweight reflective courier jacket, a compact backpack with glowing rout..."
+    },
+    {
+      "id": "sci-fi-medic-character-sheet",
+      "title": "Sci-Fi Medic Character Sheet",
+      "category": "character",
+      "path": "cases/character/sci-fi-medic-character-sheet",
+      "image": "cases/character/sci-fi-medic-character-sheet/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "character",
+        "sci-fi",
+        "game",
+        "sheet"
+      ],
+      "prompt": "Create a professional sci-fi game character sheet for a battlefield medic from an original universe. Show one full-body front view, one three-quarter pose, and three close-up callouts for helmet visor, medical wrist scanner, and compact drone pack. The medic wears white and teal modular armor with orange emergency markings, fabric joints, utility pouches, and clean wear-and-tear. Use a light neutral background, precise concept-art linework, subtle shadows, and clear spacing between views. The sheet should feel production-ready for a game art team.",
+      "excerpt": "Create a professional sci-fi game character sheet for a battlefield medic from an original universe. Show one full-body front view, one three-quarter pose, and three close-up callouts for helmet visor, medical wrist scan..."
+    },
+    {
+      "id": "storybook-forest-guide",
+      "title": "Storybook Forest Guide",
+      "category": "character",
+      "path": "cases/character/storybook-forest-guide",
+      "image": "cases/character/storybook-forest-guide/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "character",
+        "storybook",
+        "fantasy",
+        "illustration"
+      ],
+      "prompt": "Create a warm storybook character illustration of a young forest guide standing at the edge of an ancient mossy trail. The character wears a practical olive cloak, leather satchel, carved wooden compass, and patched boots. Their expression is curious and kind, with wind-tousled hair and a small lantern glowing at their side. The background includes fern silhouettes, old tree roots, firefly-like light dots, and a misty path disappearing into the woods. Use painterly gouache texture, soft golden-green lighting, and a gentle adventurous mood.",
+      "excerpt": "Create a warm storybook character illustration of a young forest guide standing at the edge of an ancient mossy trail. The character wears a practical olive cloak, leather satchel, carved wooden compass, and patched boot..."
+    },
+    {
+      "id": "imgedify-blueprint-schematic",
+      "title": "Retro-Futuristic Blueprint Schematic",
+      "category": "diagram",
+      "path": "cases/web-curated/imgedify-blueprint-schematic",
+      "image": "assets/images/imgedify-blueprint-schematic.jpeg",
+      "source": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+      "license": "MIT",
+      "tags": [
+        "diagram",
+        "blueprint",
+        "industrial",
+        "vehicle"
+      ],
+      "prompt": "A blueprint schematic of a retro-futuristic motorcycle, drawn in the style of early 20th-century industrial patents. Rendered in crisp blue ink with white technical lines, featuring exploded views, angular labels, and stamped diagram codes.",
+      "excerpt": "A blueprint schematic of a retro-futuristic motorcycle, drawn in the style of early 20th-century industrial patents. Rendered in crisp blue ink with white technical lines, featuring exploded views, angular labels, and st..."
+    },
+    {
+      "id": "science-paper-figure",
+      "title": "Science Paper Figure",
+      "category": "diagram",
+      "path": "cases/diagram/science-paper-figure",
+      "image": "cases/diagram/science-paper-figure/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "diagram",
+        "science",
+        "paper",
+        "education"
+      ],
+      "prompt": "Create a clean scientific paper figure explaining a three-step bio-sensing workflow. Panel A shows a sample droplet entering a microfluidic chip, Panel B shows molecules binding to sensor regions, and Panel C shows a simplified signal readout graph. Use crisp vector-like shapes, white background, blue and green accents, consistent arrows, panel labels A, B, C, and enough spacing for journal readability. The figure should be educational, precise, and suitable for a research presentation.",
+      "excerpt": "Create a clean scientific paper figure explaining a three-step bio-sensing workflow. Panel A shows a sample droplet entering a microfluidic chip, Panel B shows molecules binding to sensor regions, and Panel C shows a sim..."
+    },
+    {
+      "id": "streetwear-lookbook-spread",
+      "title": "Streetwear Lookbook Spread",
+      "category": "fashion",
+      "path": "cases/fashion/streetwear-lookbook-spread",
+      "image": "cases/fashion/streetwear-lookbook-spread/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "fashion",
+        "lookbook",
+        "streetwear",
+        "editorial"
+      ],
+      "prompt": "Create a two-page fashion lookbook spread for an original streetwear capsule collection. Show three models in layered neutral outfits with oversized jackets, cropped utility vests, wide trousers, and textured sneakers. Use an urban concrete courtyard, overcast daylight, editorial poses, and a layout with one large hero photo, two smaller detail crops, fabric swatches, and minimal caption blocks. The design should feel contemporary, grounded, and ready for a brand PDF lookbook.",
+      "excerpt": "Create a two-page fashion lookbook spread for an original streetwear capsule collection. Show three models in layered neutral outfits with oversized jackets, cropped utility vests, wide trousers, and textured sneakers. U..."
+    },
+    {
+      "id": "editorial-dessert-photography",
+      "title": "Editorial Dessert Photography",
+      "category": "food",
+      "path": "cases/food/editorial-dessert-photography",
+      "image": "cases/food/editorial-dessert-photography/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "food",
+        "dessert",
+        "photography",
+        "editorial"
+      ],
+      "prompt": "Create a fine-dining dessert photograph of a small plated citrus tart with torched meringue peaks, candied orange peel, a glossy sauce dot pattern, and a single edible flower. The plate is matte ivory ceramic on a dark walnut table. Use a low three-quarter camera angle, shallow depth of field, warm side light, realistic crumbs, and precise plating details. The image should feel intimate, refined, and suitable for a restaurant editorial feature.",
+      "excerpt": "Create a fine-dining dessert photograph of a small plated citrus tart with torched meringue peaks, candied orange peel, a glossy sauce dot pattern, and a single edible flower. The plate is matte ivory ceramic on a dark w..."
+    },
+    {
+      "id": "isometric-farm-game-scene",
+      "title": "Isometric Farm Game Scene",
+      "category": "game",
+      "path": "cases/game/isometric-farm-game-scene",
+      "image": "cases/game/isometric-farm-game-scene/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "game",
+        "isometric",
+        "cozy",
+        "environment"
+      ],
+      "prompt": "Create a cozy isometric game environment tile showing a tiny spring farm. Include a small cottage, vegetable plots, fruit trees, a pond, stone paths, tool shed, chicken coop, and a few cute non-branded interface markers. Use soft stylized 3D shapes, rounded forms, clear readable silhouettes, warm sunlight, and a cheerful pastel palette. The scene should look like a polished farming simulation game asset, with every object separated enough to be understandable at small size.",
+      "excerpt": "Create a cozy isometric game environment tile showing a tiny spring farm. Include a small cottage, vegetable plots, fruit trees, a pond, stone paths, tool shed, chicken coop, and a few cute non-branded interface markers...."
+    },
+    {
+      "id": "comic-page-silent-scene",
+      "title": "Comic Page Silent Scene",
+      "category": "illustration",
+      "path": "cases/illustration/comic-page-silent-scene",
+      "image": "cases/illustration/comic-page-silent-scene/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "illustration",
+        "comic",
+        "storytelling",
+        "sequential"
+      ],
+      "prompt": "Create a one-page silent comic with six panels about a child discovering a tiny glowing door in the wall of an old apartment. No speech bubbles. Panel 1 shows the quiet room at night, Panel 2 shows the child noticing light under peeling wallpaper, Panel 3 shows a close-up of a small brass doorknob, Panel 4 shows the door opening to a starry miniature landscape, Panel 5 shows the child's amazed face, and Panel 6 shows a small warm light spilling into the room. Use ink lines, muted watercolor, clear panel gutters, and gentle magical realism.",
+      "excerpt": "Create a one-page silent comic with six panels about a child discovering a tiny glowing door in the wall of an old apartment. No speech bubbles. Panel 1 shows the quiet room at night, Panel 2 shows the child noticing lig..."
+    },
+    {
+      "id": "imgedify-fluffy-swan",
+      "title": "Fluffy Swan Object",
+      "category": "illustration",
+      "path": "cases/web-curated/imgedify-fluffy-swan",
+      "image": "assets/images/imgedify-fluffy-swan.jpeg",
+      "source": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+      "license": "MIT",
+      "tags": [
+        "illustration",
+        "3d",
+        "tactile",
+        "object"
+      ],
+      "prompt": "Transform a simple flat vector illustration of a swan into a soft, 3D fluffy object. Use the exact colors. The shape is fully covered in fur, with hyperrealistic hair texture and soft shadows. The object is centered on a clean, light gray background and floats gently in space. The style is surreal, tactile, and modern, evoking a sense of comfort and playfulness. Studio lighting, high-resolution render.",
+      "excerpt": "Transform a simple flat vector illustration of a swan into a soft, 3D fluffy object. Use the exact colors. The shape is fully covered in fur, with hyperrealistic hair texture and soft shadows. The object is centered on a..."
+    },
+    {
+      "id": "imgedify-low-poly-camel",
+      "title": "Low Poly Desert Camel",
+      "category": "illustration",
+      "path": "cases/web-curated/imgedify-low-poly-camel",
+      "image": "assets/images/imgedify-low-poly-camel.jpeg",
+      "source": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+      "license": "MIT",
+      "tags": [
+        "illustration",
+        "low-poly",
+        "3d",
+        "environment"
+      ],
+      "prompt": "A low-poly 3D render of a camel, built from clean triangular facets with flat sandy beige and burnt orange surfaces. The environment is a stylized digital desert with minimal geometry and ambient occlusion.",
+      "excerpt": "A low-poly 3D render of a camel, built from clean triangular facets with flat sandy beige and burnt orange surfaces. The environment is a stylized digital desert with minimal geometry and ambient occlusion."
+    },
+    {
+      "id": "warm-reading-nook",
+      "title": "Warm Reading Nook",
+      "category": "interior",
+      "path": "cases/interior/warm-reading-nook",
+      "image": "cases/interior/warm-reading-nook/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "interior",
+        "warm",
+        "lifestyle",
+        "editorial"
+      ],
+      "prompt": "Create a cozy interior design photograph of a small reading nook beside a tall window on a rainy afternoon. Include a low linen armchair, a walnut side table, a ceramic mug, stacked books, a woven rug, and a slim brass floor lamp. The room has warm plaster walls, natural oak shelves, a few green plants, and soft reflections on the window glass. Use a wide but intimate composition, eye-level camera, natural diffused daylight mixed with warm lamp light, and realistic materials. The image should feel calm, lived-in, editorial, and suitable for a boutique home design magazine.",
+      "excerpt": "Create a cozy interior design photograph of a small reading nook beside a tall window on a rainy afternoon. Include a low linen armchair, a walnut side table, a ceramic mug, stacked books, a woven rug, and a slim brass f..."
+    },
+    {
+      "id": "editorial-chef-portrait",
+      "title": "Editorial Chef Portrait",
+      "category": "portrait",
+      "path": "cases/portrait/editorial-chef-portrait",
+      "image": "cases/portrait/editorial-chef-portrait/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "portrait",
+        "editorial",
+        "food",
+        "photography"
+      ],
+      "prompt": "Create an editorial portrait photograph of an independent chef standing in a small open kitchen after service. The chef wears a clean cream apron over a dark shirt, with relaxed posture, natural expression, and lightly flour-dusted hands. In the background, show soft bokeh from copper pans, herbs, and a warm prep light, but keep the face sharply focused. Use a 50mm lens feeling, warm cinematic side light, natural skin texture, and muted earth colors. The image should feel honest, skilled, and magazine-ready.",
+      "excerpt": "Create an editorial portrait photograph of an independent chef standing in a small open kitchen after service. The chef wears a clean cream apron over a dark shirt, with relaxed posture, natural expression, and lightly f..."
+    },
+    {
+      "id": "imgedify-typographic-portrait",
+      "title": "Typographic Portrait",
+      "category": "portrait",
+      "path": "cases/web-curated/imgedify-typographic-portrait",
+      "image": "assets/images/imgedify-typographic-portrait.png",
+      "source": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+      "license": "MIT",
+      "tags": [
+        "portrait",
+        "typography",
+        "poster",
+        "experimental"
+      ],
+      "prompt": "Recreate the attached image as Typography Portrait. Subject is happiness.",
+      "excerpt": "Recreate the attached image as Typography Portrait. Subject is happiness."
+    },
+    {
+      "id": "architectural-section-poster",
+      "title": "Architectural Section Poster",
+      "category": "poster",
+      "path": "cases/poster/architectural-section-poster",
+      "image": "cases/poster/architectural-section-poster/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "poster",
+        "architecture",
+        "section",
+        "editorial"
+      ],
+      "prompt": "Create a vertical architectural poster showing a cutaway section of a compact urban library. The building is sliced open like a precise editorial illustration, revealing reading rooms, staircases, book stacks, a rooftop garden, a cafe corner, and tiny visitors moving through the space. Use clean ink lines, soft watercolor fills, warm cream paper texture, and small numbered callouts with simple labels. Add a bold title area at the top reading 'Neighborhood Library'. The poster should feel educational, charming, and suitable for an architecture magazine.",
+      "excerpt": "Create a vertical architectural poster showing a cutaway section of a compact urban library. The building is sliced open like a precise editorial illustration, revealing reading rooms, staircases, book stacks, a rooftop..."
+    },
+    {
+      "id": "web-boston-spring-city-poster",
+      "title": "Boston Spring 2026 City Poster",
+      "category": "poster",
+      "path": "cases/web-curated/boston-spring-city-poster",
+      "image": "assets/images/web-boston-spring-city-poster.jpg",
+      "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+      "license": "CC0-1.0",
+      "tags": [
+        "poster",
+        "travel",
+        "city",
+        "illustration"
+      ],
+      "prompt": "A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design.\n\nOn a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston.\n\nInside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city's waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded.\n\nElegant typography in the lower left reads \"SPRING 2026\" with a vertical slogan \"BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION\", text clear and beautifully composed, premium graphic design, 9:16",
+      "excerpt": "A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows..."
+    },
+    {
+      "id": "farmers-market-event-poster",
+      "title": "Farmers Market Event Poster",
+      "category": "poster",
+      "path": "cases/poster/farmers-market-event-poster",
+      "image": "cases/poster/farmers-market-event-poster/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "poster",
+        "event",
+        "risograph",
+        "food"
+      ],
+      "prompt": "Create a cheerful vertical risograph-style event poster for a fictional weekend farmers market. The central illustration shows a basket overflowing with tomatoes, peaches, leafy greens, flowers, and a small loaf of bread. Use bold flat shapes, slight print misregistration, grainy ink texture, and a palette of tomato red, leafy green, golden yellow, and cream. Leave clear typography zones for the title 'Saturday Market', date, location, and vendor list. The design should feel local, friendly, handmade, and print-ready.",
+      "excerpt": "Create a cheerful vertical risograph-style event poster for a fictional weekend farmers market. The central illustration shows a basket overflowing with tomatoes, peaches, leafy greens, flowers, and a small loaf of bread..."
+    },
+    {
+      "id": "web-iced-coffee-product-infographic",
+      "title": "Iced Coffee Product Infographic",
+      "category": "poster",
+      "path": "cases/web-curated/iced-coffee-product-infographic",
+      "image": "assets/images/web-iced-coffee-product-infographic.jpg",
+      "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+      "license": "CC0-1.0",
+      "tags": [
+        "infographic",
+        "beverage",
+        "product",
+        "commercial"
+      ],
+      "prompt": "A high-end cafe-style product photograph of a transparent glass filled with iced coffee, centered against a soft beige and cream seamless studio background.\n\nThe drink shows a rich dark coffee base blending with creamy milk swirls, creating a smooth gradient effect. Several clear ice cubes are visible with realistic transparency and light refraction. The glass has subtle condensation droplets, adding freshness. Soft natural studio lighting creates delicate highlights and a clean shadow beneath the glass. Ultra-sharp focus, premium beverage advertisement style, DSLR macro photography, hyper realistic, 8K.\n\nPROMPT 2 - Create a hyper-realistic exploded vertical infographic composition of an iced coffee. Top to Bottom structure: Foam Layer (light creamy foam with soft airy texture) to Coffee Liquid (rich dark espresso layer with smooth gradient) to Ice Cubes (transparent cubes with sharp edges and reflections) to Milk Layer (soft creamy white layer with smooth blend effect) to Glass Base (clear minimal glass structure) All elements must be perfectly centered, evenly spaced, and aligned vertically.\n\nUse a soft beige seamless background with clean cafe-style lighting and subtle realistic shadows beneath each floating element. The composition should feel like a premium beverage ad combined with a clean infographic layout. Add clean minimalist text labels with thin pointer lines using these exact labels: \"Foam\" \"Coffee\" \"Ice\" \"Milk\" \"Glass\" Ultra-realistic liquid detail, sharp reflections, premium commercial photography, 8K.",
+      "excerpt": "A high-end cafe-style product photograph of a transparent glass filled with iced coffee, centered against a soft beige and cream seamless studio background. The drink shows a rich dark coffee base blending with creamy mi..."
+    },
+    {
+      "id": "web-illustrated-city-food-map",
+      "title": "Illustrated City Food Map",
+      "category": "poster",
+      "path": "cases/web-curated/illustrated-city-food-map",
+      "image": "assets/images/web-illustrated-city-food-map.jpg",
+      "source": "YouMind-OpenLab/awesome-gpt-image-2",
+      "license": "CC BY 4.0",
+      "tags": [
+        "map",
+        "food",
+        "infographic",
+        "watercolor"
+      ],
+      "prompt": "{\n  \"type\": \"illustrated map infographic\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"watercolor and ink hand-drawn illustration on vintage parchment\\\"}\",\n  \"title_section\": {\n    \"text\": \"{argument name=\\\"city name\\\" default=\\\"成都\\\"} {argument name=\\\"map title\\\" default=\\\"吃货暴走地图\\\"}\",\n    \"mascot\": \"cartoon red chili pepper wearing sunglasses and giving a thumbs up\"\n  },\n  \"border\": \"{argument name=\\\"border decoration\\\" default=\\\"vine of green leaves and red chili peppers\\\"}\",\n  \"layout\": {\n    \"background\": \"textured beige parchment paper with yellow roads, blue rivers, and green park areas\",\n    \"sections\": [\n      {\n        \"title\": \"landmarks\",\n        \"count\": 6,\n        \"illustrations\": [\"traditional pavilion\", \"traditional monastery\", \"modern skyscraper with climbing panda\", \"tall TV tower\", \"traditional gate\", \"industrial buildings\"],\n        \"labels\": [\"人民公园\", \"文殊院\", \"IFS\", \"339电视塔\", \"宽窄巷子\", \"东郊记忆\"]\n      },\n      {\n        \"title\": \"food_spots\",\n        \"count\": 12,\n        \"illustrations\": [\"mapo tofu\", \"dumplings in chili oil\", \"skewers in pot\", \"sticky rice balls\", \"egg baking cake\", \"nine-grid hotpot\", \"sweet potato noodles\", \"cold skewers\", \"spicy mixed dish\", \"covered tea bowl\", \"ice jelly dessert\", \"spicy rabbit heads\"],\n        \"labels\": [\"1 陈麻婆豆腐\", \"2 钟水饺\", \"3 春熙路\", \"4 宽窄巷子·三大炮\", \"5 建设路·叶婆婆蛋烘糕\", \"6 玉林路·小龙坎火锅\", \"7 香香巷·肥肠粉\", \"8 武侯祠大街·钵钵鸡\", \"9 东郊记忆·冒椒火辣\", \"10 人民公园·鹤鸣茶社\", \"11 锦里古街·冰粉\", \"12 双流老妈兔头\"]\n      },\n      {\n        \"title\": \"图例\",\n        \"position\": \"bottom-right\",\n        \"count\": 5,\n        \"items\": [\"red dot\", \"green house\", \"green tree\", \"blue line\", \"yellow double line\"],\n        \"labels\": [\"美食地点\", \"地标景点\", \"公园绿地\", \"河流湖泊\", \"主要道路\"]\n      }\n    ],\n    \"centerpiece\": \"giant panda sitting and eating bamboo\",\n    \"bottom_right_extras\": [\"vintage compass rose with N, S, E, W\", \"disclaimer text '温馨提示：吃辣需谨慎，肠胃要保护~' with a red chili pepper icon\"]\n  }\n}",
+      "excerpt": "{ \"type\": \"illustrated map infographic\", \"style\": \"{argument name=\\\"art style\\\" default=\\\"watercolor and ink hand-drawn illustration on vintage parchment\\\"}\", \"title_section\": { \"text\": \"{argument name=\\\"city name\\\" defa..."
+    },
+    {
+      "id": "jazz-night-poster",
+      "title": "Jazz Night Poster",
+      "category": "poster",
+      "path": "cases/poster/jazz-night-poster",
+      "image": "cases/poster/jazz-night-poster/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "poster",
+        "music",
+        "branding",
+        "vintage"
+      ],
+      "prompt": "Create a vertical vintage-inspired jazz concert poster for an imaginary event called \"Blue Hour Sessions\". The main visual is a golden saxophone silhouette crossing a deep indigo moon, surrounded by subtle paper grain, smoky stage light, and abstract rhythm lines. Use strong hierarchy with space for the event title at the top, date and venue at the bottom, and a balanced art-deco layout. The color palette is deep indigo, muted gold, ivory, and a small accent of red. The poster should feel elegant, musical, atmospheric, and print-ready.",
+      "excerpt": "Create a vertical vintage-inspired jazz concert poster for an imaginary event called \"Blue Hour Sessions\". The main visual is a golden saxophone silhouette crossing a deep indigo moon, surrounded by subtle paper grain, s..."
+    },
+    {
+      "id": "museum-exhibition-key-visual",
+      "title": "Museum Exhibition Key Visual",
+      "category": "poster",
+      "path": "cases/poster/museum-exhibition-key-visual",
+      "image": "cases/poster/museum-exhibition-key-visual/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "poster",
+        "museum",
+        "campaign",
+        "minimal"
+      ],
+      "prompt": "Create a refined museum exhibition key visual for a fictional show titled 'Fragments of Tomorrow'. The image features a single abstract ceramic shard floating in the center, lit like a precious artifact, with subtle cracks, matte glaze, and a faint red reflection beneath it. Use a quiet stone-gray background, large negative space, elegant editorial composition, and restrained black and red typography areas. The mood should be intellectual, minimal, and suitable for a contemporary art museum campaign.",
+      "excerpt": "Create a refined museum exhibition key visual for a fictional show titled 'Fragments of Tomorrow'. The image features a single abstract ceramic shard floating in the center, lit like a precious artifact, with subtle crac..."
+    },
+    {
+      "id": "botanical-packaging-flatlay",
+      "title": "Botanical Packaging Flatlay",
+      "category": "product",
+      "path": "cases/product/botanical-packaging-flatlay",
+      "image": "cases/product/botanical-packaging-flatlay/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "product",
+        "packaging",
+        "sustainable",
+        "flat-lay"
+      ],
+      "prompt": "Create a clean flat-lay product photograph of sustainable botanical packaging for a fictional herbal soap brand. Arrange two kraft paper boxes, one unwrapped green soap bar, eucalyptus leaves, cotton string, recycled paper tags, and a small ceramic dish on a warm off-white surface. Use top-down composition, soft diffused daylight, natural shadows, and a restrained green, kraft, ivory palette. The design should look eco-conscious, premium, and easy to adapt for ecommerce thumbnails.",
+      "excerpt": "Create a clean flat-lay product photograph of sustainable botanical packaging for a fictional herbal soap brand. Arrange two kraft paper boxes, one unwrapped green soap bar, eucalyptus leaves, cotton string, recycled pap..."
+    },
+    {
+      "id": "ceramic-tea-set-hero",
+      "title": "Ceramic Tea Set Hero",
+      "category": "product",
+      "path": "cases/product/ceramic-tea-set-hero",
+      "image": "cases/product/ceramic-tea-set-hero/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "product",
+        "ceramic",
+        "still-life",
+        "editorial"
+      ],
+      "prompt": "Create an editorial still-life photograph of a handmade ceramic tea set on a low stone table. Include a small teapot, two imperfect cups, loose tea leaves, a linen napkin, and a thin trail of steam. The ceramics have a speckled celadon glaze with tiny irregularities and hand-thrown edges. Use a muted beige background, soft side light, shallow depth of field, and quiet negative space. The image should feel artisanal, calm, tactile, and suitable for a boutique lifestyle catalog.",
+      "excerpt": "Create an editorial still-life photograph of a handmade ceramic tea set on a low stone table. Include a small teapot, two imperfect cups, loose tea leaves, a linen napkin, and a thin trail of steam. The ceramics have a s..."
+    },
+    {
+      "id": "holographic-perfume-campaign",
+      "title": "Holographic Perfume Campaign",
+      "category": "product",
+      "path": "cases/product/holographic-perfume-campaign",
+      "image": "cases/product/holographic-perfume-campaign/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "product",
+        "fragrance",
+        "luxury",
+        "campaign"
+      ],
+      "prompt": "Create a square luxury fragrance campaign image featuring a transparent glass perfume bottle with a fictional label reading 'AURORA VEIL'. The bottle stands on a glossy black acrylic surface with holographic light caustics, soft mist, and delicate refractions through the glass. Use high-contrast studio lighting, cool blue and violet rim lights, warm gold highlights on the cap, and a centered symmetrical composition. The result should feel premium, mysterious, futuristic, and ready for a beauty brand social post.",
+      "excerpt": "Create a square luxury fragrance campaign image featuring a transparent glass perfume bottle with a fictional label reading 'AURORA VEIL'. The bottle stands on a glossy black acrylic surface with holographic light causti..."
+    },
+    {
+      "id": "web-luxury-chronograph-watch-ad",
+      "title": "Luxury Chronograph Watch Ad",
+      "category": "product",
+      "path": "cases/web-curated/luxury-chronograph-watch-ad",
+      "image": "assets/images/web-luxury-chronograph-watch-ad.jpg",
+      "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+      "license": "CC0-1.0",
+      "tags": [
+        "product",
+        "watch",
+        "luxury",
+        "advertising"
+      ],
+      "prompt": "A dramatic luxury product advertising image for a motorsport-inspired chronograph wristwatch in a dark studio.\n\nCenter-left foreground, show a single stainless steel chronograph watch standing upright at a slight three-quarter angle, with a black dial, two red-accent subdials, slim silver hour markers, a tachymeter bezel, and visible crown and pushers on the right side. The watch has a black leather strap with bold red stitching along both edges and a sporty premium finish.\n\nTo the right of the watch, place one black square presentation box slightly behind it, textured like leather, with red stitching around the lid and a silver embossed eye-shaped logo above the text \"NESS STUDIO\" and smaller red text \"TRACK SURFACE.\" At the top center of the composition, add the same silver eye logo with the words \"NESS STUDIO\" and smaller \"BY NICOLAS.\" Across the background, place one oversized blurred word, {argument name=\"headline text\" default=\"PRECISION\"}, in large gray capital letters spanning nearly the full width.\n\nThe scene is set against a deep black background with cinematic red and white horizontal light streaks crossing behind the products from left to right, suggesting speed and racetrack energy. Use a glossy wet ground plane with reflective texture, catching red highlights and mirrorlike reflections beneath the watch and box.\n\nAt the bottom center, add the text \"CHRONOGRAPH SERIES\" in clean white spaced capitals with thin red horizontal lines extending on both sides, and below it smaller red capitals reading {argument name=\"tagline text\" default=\"ALSACE MADE\"}. Color palette: black, charcoal gray, silver steel, vivid racing red, and a touch of white. Lighting should be high-contrast and premium, with crisp specular highlights on the metal case, subtle soft fill on the box, and moody shadows.\n\nOverall style: ultra-polished commercial product photography, luxury watch campaign, sharp focus on the products, sleek branding, high-end automotive aesthetic.",
+      "excerpt": "A dramatic luxury product advertising image for a motorsport-inspired chronograph wristwatch in a dark studio. Center-left foreground, show a single stainless steel chronograph watch standing upright at a slight three-qu..."
+    },
+    {
+      "id": "imgedify-luxury-wooden-door",
+      "title": "Luxury Wooden Door Detail",
+      "category": "product",
+      "path": "cases/web-curated/imgedify-luxury-wooden-door",
+      "image": "assets/images/imgedify-luxury-wooden-door.jpeg",
+      "source": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+      "license": "MIT",
+      "tags": [
+        "product",
+        "material",
+        "macro",
+        "photography"
+      ],
+      "prompt": "A close-up photograph of a luxurious wooden door with detailed paneling and rich grain texture. The door features a custom-shaped doorknob in the form of the [LOGO_NAME] logo, made of polished material (metal, brass, ceramic, etc.) to look realistic and tangible. The handle is mounted on an antique bronze base, with soft, ambient lighting emphasizing the reflections, shadows, and depth of both the knob and door.",
+      "excerpt": "A close-up photograph of a luxurious wooden door with detailed paneling and rich grain texture. The door features a custom-shaped doorknob in the form of the [LOGO_NAME] logo, made of polished material (metal, brass, cer..."
+    },
+    {
+      "id": "web-skincare-miniature-diorama",
+      "title": "Miniature Diorama Skincare Advertisement",
+      "category": "product",
+      "path": "cases/web-curated/skincare-miniature-diorama",
+      "image": "assets/images/web-skincare-miniature-diorama.jpg",
+      "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+      "license": "CC0-1.0",
+      "tags": [
+        "product",
+        "ecommerce",
+        "miniature",
+        "commercial"
+      ],
+      "prompt": "A hyper-realistic miniature diorama product advertisement featuring an oversized luxury skincare pump bottle labeled \"LUXEVEIL Skin Science - Radiance Nourishing Body Lotion\" in cream/beige with a polished gold pump top, placed on a circular platform.\n\nTiny figurine construction workers dressed in yellow coveralls and white hard hats swarm around the bottle climbing scaffolding, painting the bottle with rollers, operating a tower crane, working near industrial tanks and pipework, and unloading a miniature flatbed truck. The scene includes metal scaffolding structures, industrial silos, orange traffic cones, wooden barricades, and storage barrels. The overall color palette is warm beige, cream, gold, and mustard yellow.\n\nStudio photography style with soft diffused lighting, no shadows, clean beige background. The concept metaphorically shows workers \"crafting\" or \"building\" the perfect lotion. Tilt-shift miniature aesthetic, ultra-detailed, commercial product photography, 8K resolution, photorealistic CGI render.",
+      "excerpt": "A hyper-realistic miniature diorama product advertisement featuring an oversized luxury skincare pump bottle labeled \"LUXEVEIL Skin Science - Radiance Nourishing Body Lotion\" in cream/beige with a polished gold pump top,..."
+    },
+    {
+      "id": "minimal-sneaker-ad",
+      "title": "Minimal Sneaker Ad",
+      "category": "product",
+      "path": "cases/product/minimal-sneaker-ad",
+      "image": "cases/product/minimal-sneaker-ad/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "product",
+        "studio-light",
+        "minimal",
+        "ecommerce"
+      ],
+      "prompt": "Create a premium studio product photograph of a futuristic white running sneaker floating slightly above a matte stone pedestal. The sneaker has subtle silver mesh panels, translucent air cushioning, and precise stitched details. Use a clean off-white background with a soft blue-gray shadow gradient. The composition is centered, with generous negative space above the product for advertising copy. Lighting is soft but directional, like a high-end product campaign, with crisp material highlights and realistic contact shadows. The image should feel minimal, expensive, modern, and ready for an ecommerce hero banner.",
+      "excerpt": "Create a premium studio product photograph of a futuristic white running sneaker floating slightly above a matte stone pedestal. The sneaker has subtle silver mesh panels, translucent air cushioning, and precise stitched..."
+    },
+    {
+      "id": "modular-desk-setup",
+      "title": "Modular Desk Setup",
+      "category": "product",
+      "path": "cases/product/modular-desk-setup",
+      "image": "cases/product/modular-desk-setup/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "product",
+        "workspace",
+        "minimal",
+        "tech"
+      ],
+      "prompt": "Create a premium product photograph of a modular home-office desk setup with a slim monitor, mechanical keyboard, wireless charger, ceramic pen cup, and stackable oak organizer trays. The desk is matte walnut with clean cable management and a soft linen wall behind it. Use eye-level composition, gentle morning window light from the left, realistic shadows, and subtle reflections on aluminum and glass. Leave negative space in the upper right for a product headline. The image should feel calm, precise, ergonomic, and suitable for a modern productivity brand.",
+      "excerpt": "Create a premium product photograph of a modular home-office desk setup with a slim monitor, mechanical keyboard, wireless charger, ceramic pen cup, and stackable oak organizer trays. The desk is matte walnut with clean..."
+    },
+    {
+      "id": "finance-dashboard-dark-mode",
+      "title": "Finance Dashboard Dark Mode",
+      "category": "ui",
+      "path": "cases/ui/finance-dashboard-dark-mode",
+      "image": "cases/ui/finance-dashboard-dark-mode/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "ui",
+        "dashboard",
+        "finance",
+        "saas"
+      ],
+      "prompt": "Create a polished dark-mode SaaS finance dashboard UI for a small business owner. Show a left navigation rail, top filter bar, revenue KPI cards, cash-flow line chart, expense category bars, invoice status table, and a compact alerts panel. Use dense but readable spacing, crisp typography, subtle borders, muted charcoal surfaces, green positive indicators, amber warning accents, and no decorative marketing hero elements. The screen should feel practical, trustworthy, and ready for daily operational use.",
+      "excerpt": "Create a polished dark-mode SaaS finance dashboard UI for a small business owner. Show a left navigation rail, top filter bar, revenue KPI cards, cash-flow line chart, expense category bars, invoice status table, and a c..."
+    },
+    {
+      "id": "imgedify-minimal-3d-icons",
+      "title": "Minimal 3D Icon Render",
+      "category": "ui",
+      "path": "cases/web-curated/imgedify-minimal-3d-icons",
+      "image": "assets/images/imgedify-minimal-3d-icons.jpeg",
+      "source": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+      "license": "MIT",
+      "tags": [
+        "ui",
+        "icon",
+        "3d",
+        "minimal"
+      ],
+      "prompt": "minimalist 3D render, [Subject], soft matte finish, black and antique gold details, pristine white backdrop, isometric angle, ambient glow, feathered shadows, simple and elegant",
+      "excerpt": "minimalist 3D render, [Subject], soft matte finish, black and antique gold details, pristine white backdrop, isometric angle, ambient glow, feathered shadows, simple and elegant"
+    },
+    {
+      "id": "web-one-prompt-ui-design-generation",
+      "title": "One-Prompt UI Design Generation",
+      "category": "ui",
+      "path": "cases/web-curated/one-prompt-ui-design-generation",
+      "image": "assets/images/web-one-prompt-ui-design-generation.jpg",
+      "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+      "license": "CC0-1.0",
+      "tags": [
+        "ui",
+        "design-system",
+        "mobile",
+        "web"
+      ],
+      "prompt": "用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它",
+      "excerpt": "用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它"
+    },
+    {
+      "id": "travel-booking-mobile-flow",
+      "title": "Travel Booking Mobile Flow",
+      "category": "ui",
+      "path": "cases/ui/travel-booking-mobile-flow",
+      "image": "cases/ui/travel-booking-mobile-flow/preview.svg",
+      "source": "original",
+      "license": "CC BY 4.0",
+      "tags": [
+        "ui",
+        "mobile",
+        "travel",
+        "booking"
+      ],
+      "prompt": "Create a set of four mobile app screens for a modern train travel booking app. Include search, route results, seat selection, and ticket confirmation screens arranged side by side on a neutral background. Use a calm teal and warm orange palette, clear icons, compact cards, route timelines, station abbreviations, seat map grid, and a prominent confirmation QR area. The UI should feel efficient, accessible, and realistic for commuters, with consistent spacing and component styles across all screens.",
+      "excerpt": "Create a set of four mobile app screens for a modern train travel booking app. Include search, route results, seat selection, and ticket confirmation screens arranged side by side on a neutral background. Use a calm teal..."
+    }
+  ]
+}

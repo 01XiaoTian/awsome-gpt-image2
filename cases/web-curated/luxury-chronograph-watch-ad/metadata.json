@@ -12,5 +12,11 @@
     "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case144/output.jpg"
   ],
   "rights_notes": "Source repository declares CC0. Brand names in the prompt appear fictional.",
-  "tags": ["product", "watch", "luxury", "advertising"]
+  "tags": [
+    "product",
+    "watch",
+    "luxury",
+    "advertising"
+  ],
+  "local_image": "assets/images/web-luxury-chronograph-watch-ad.jpg"
 }

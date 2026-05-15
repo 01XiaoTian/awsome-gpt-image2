@@ -1,0 +1,22 @@
+{
+  "id": "imgedify-typographic-portrait",
+  "title": "Typographic Portrait",
+  "category": "portrait",
+  "model": "gpt4o / GPT Image style prompt",
+  "source_repository": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+  "source_url": "https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts",
+  "original_post_url": "https://x.com/firatbilal/status/1911849629211050492",
+  "author": "firatbilal",
+  "license": "MIT",
+  "local_image": "assets/images/imgedify-typographic-portrait.png",
+  "external_image_urls": [
+    "https://cdn.imgedify.com/media/image/2025/04/2f7a7cf9f5bc774d063f1f74e8bff249.png"
+  ],
+  "rights_notes": "Imported from a public MIT-licensed prompt collection. Attribution retained.",
+  "tags": [
+    "portrait",
+    "typography",
+    "poster",
+    "experimental"
+  ]
+}

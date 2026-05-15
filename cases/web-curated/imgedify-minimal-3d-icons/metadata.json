@@ -1,0 +1,22 @@
+{
+  "id": "imgedify-minimal-3d-icons",
+  "title": "Minimal 3D Icon Render",
+  "category": "ui",
+  "model": "gpt4o / GPT Image style prompt",
+  "source_repository": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+  "source_url": "https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts",
+  "original_post_url": "https://x.com/azed_ai/status/1906285785961406891",
+  "author": "Amira Zairi",
+  "license": "MIT",
+  "local_image": "assets/images/imgedify-minimal-3d-icons.jpeg",
+  "external_image_urls": [
+    "https://cdn.imgedify.com/imgedify/images/1744757063151-fjktfhmchbo.jpeg"
+  ],
+  "rights_notes": "Imported from a public MIT-licensed prompt collection. Attribution retained.",
+  "tags": [
+    "ui",
+    "icon",
+    "3d",
+    "minimal"
+  ]
+}

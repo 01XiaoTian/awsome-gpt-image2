@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Awesome GPT Image 2 Prompts</title>
+  <meta name="description" content="GPT Image 2 prompt gallery with local images, examples, and reusable prompt cards.">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <main class="shell">
+    <section class="hero">
+      <div>
+        <span class="eyebrow">Open prompt gallery / GPT Image 2</span>
+        <h1>Prompts that show their work.</h1>
+        <p class="lead">一个更适合浏览和复用的 GPT Image 2 案例库：本地图片、完整提示词、来源许可、分类筛选和可复制的 Prompt Cards。</p>
+        <div class="hero-actions">
+          <a class="button" href="#gallery">Browse gallery</a>
+          <a class="button secondary" href="GALLERY.md">Markdown gallery</a>
+        </div>
+        <div class="stats">
+          <div class="stat"><strong>34</strong><span>Prompt cases</span></div>
+          <div class="stat"><strong>11</strong><span>Categories</span></div>
+          <div class="stat"><strong>13</strong><span>Local images</span></div>
+        </div>
+      </div>
+      <div class="mosaic" id="mosaic"></div>
+    </section>
+
+    <section id="gallery">
+      <div class="section-head">
+        <h2>Gallery</h2>
+        <p>按用途筛选，点开卡片可以直接看完整提示词。外部来源保留许可证和作者信息，本地图片保存在 <code>assets/images</code>。</p>
+      </div>
+      <div class="filters" id="filters"></div>
+      <div class="grid" id="cards"></div>
+    </section>
+
+    <footer class="footer">
+      <p>Built as a lightweight static gallery. Cases are stored in <code>cases/</code>, data lives in <code>assets/cases.json</code>.</p>
+    </footer>
+  </main>
+
+  <aside class="drawer" id="drawer" aria-hidden="true">
+    <div class="drawer-inner">
+      <div class="drawer-top">
+        <div>
+          <h2 id="drawerTitle"></h2>
+          <p id="drawerMeta"></p>
+        </div>
+        <button class="close" id="closeDrawer">Close</button>
+      </div>
+      <pre id="drawerPrompt"></pre>
+    </div>
+  </aside>
+
+  <script>
+    const state = { cases: [], category: "all" };
+    const categories = ["character","diagram","fashion","food","game","illustration","interior","portrait","poster","product","ui"];
+
+    function imgFallback(event) {
+      event.currentTarget.style.display = "none";
+    }
+
+    function renderFilters() {
+      const root = document.getElementById("filters");
+      const items = ["all", ...categories];
+      root.innerHTML = items.map((category) =>
+        '<button class="filter' + (state.category === category ? ' active' : '') + '" data-category="' + category + '">' + category + '</button>'
+      ).join("");
+      root.querySelectorAll("button").forEach((button) => {
+        button.addEventListener("click", () => {
+          state.category = button.dataset.category;
+          renderFilters();
+          renderCards();
+        });
+      });
+    }
+
+    function renderMosaic() {
+      const root = document.getElementById("mosaic");
+      const picks = state.cases.filter((item) => item.image).slice(0, 8);
+      const classes = ["tile-large", "tile-wide", "tile-small", "tile-small", "tile-wide", "tile-small", "tile-small", "tile-small"];
+      root.innerHTML = picks.map((item, index) => '<img class="' + classes[index] + '" src="' + item.image + '" alt="' + item.title + '" onerror="imgFallback(event)">').join("");
+    }
+
+    function renderCards() {
+      const root = document.getElementById("cards");
+      const filtered = state.category === "all" ? state.cases : state.cases.filter((item) => item.category === state.category);
+      root.innerHTML = filtered.map((item, index) => {
+        const tags = item.tags.slice(0, 4).map((tag) => '<span class="tag">' + tag + '</span>').join("");
+        return '<article class="card">' +
+          '<img class="thumb" src="' + item.image + '" alt="' + item.title + '" onerror="imgFallback(event)">' +
+          '<div class="card-body">' +
+          '<div class="meta"><span>' + item.category + '</span><span>' + item.license + '</span></div>' +
+          '<h3>' + item.title + '</h3>' +
+          '<p class="prompt-preview">' + item.excerpt + '</p>' +
+          '<div class="tags">' + tags + '</div>' +
+          '<button data-index="' + index + '">View prompt</button>' +
+          '</div></article>';
+      }).join("");
+      root.querySelectorAll("button").forEach((button, index) => {
+        button.addEventListener("click", () => openDrawer(filtered[index]));
+      });
+    }
+
+    function openDrawer(item) {
+      document.getElementById("drawerTitle").textContent = item.title;
+      document.getElementById("drawerMeta").textContent = item.category + " / " + item.source + " / " + item.license;
+      document.getElementById("drawerPrompt").textContent = item.prompt || item.excerpt;
+      document.getElementById("drawer").classList.add("open");
+      document.getElementById("drawer").setAttribute("aria-hidden", "false");
+    }
+
+    document.getElementById("closeDrawer").addEventListener("click", () => {
+      document.getElementById("drawer").classList.remove("open");
+      document.getElementById("drawer").setAttribute("aria-hidden", "true");
+    });
+
+    fetch("assets/cases.json")
+      .then((response) => response.json())
+      .then((data) => {
+        state.cases = data.cases;
+        renderFilters();
+        renderMosaic();
+        renderCards();
+      });
+  </script>
+</body>
+</html>

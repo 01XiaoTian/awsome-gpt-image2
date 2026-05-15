@@ -1,0 +1,22 @@
+{
+  "id": "imgedify-blueprint-schematic",
+  "title": "Retro-Futuristic Blueprint Schematic",
+  "category": "diagram",
+  "model": "gpt4o / GPT Image style prompt",
+  "source_repository": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+  "source_url": "https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts",
+  "original_post_url": "https://x.com/azed_ai/status/1914258586588639270",
+  "author": "Amira Zairi",
+  "license": "MIT",
+  "local_image": "assets/images/imgedify-blueprint-schematic.jpeg",
+  "external_image_urls": [
+    "https://cdn.imgedify.com/imgedify/images/1745248340542-hqkzuqp1bib.jpeg"
+  ],
+  "rights_notes": "Imported from a public MIT-licensed prompt collection. Attribution retained.",
+  "tags": [
+    "diagram",
+    "blueprint",
+    "industrial",
+    "vehicle"
+  ]
+}

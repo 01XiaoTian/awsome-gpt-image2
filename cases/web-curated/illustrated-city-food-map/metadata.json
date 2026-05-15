@@ -13,5 +13,11 @@
     "https://cms-assets.youmind.com/media/1776662673014_nf0taw_HGRMNDybsAAGG88.jpg"
   ],
   "rights_notes": "Source repository declares CC BY 4.0. Attribution retained in prompt.md and metadata.json.",
-  "tags": ["map", "food", "infographic", "watercolor"]
+  "tags": [
+    "map",
+    "food",
+    "infographic",
+    "watercolor"
+  ],
+  "local_image": "assets/images/web-illustrated-city-food-map.jpg"
 }

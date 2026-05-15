@@ -12,5 +12,11 @@
     "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case1/output.jpg"
   ],
   "rights_notes": "Source repository declares CC0. City landmarks may be subject to local trademark or publicity considerations in commercial contexts.",
-  "tags": ["poster", "travel", "city", "illustration"]
+  "tags": [
+    "poster",
+    "travel",
+    "city",
+    "illustration"
+  ],
+  "local_image": "assets/images/web-boston-spring-city-poster.jpg"
 }

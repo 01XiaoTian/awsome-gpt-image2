@@ -12,5 +12,11 @@
     "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case170/output.jpg"
   ],
   "rights_notes": "Source repository declares CC0.",
-  "tags": ["infographic", "beverage", "product", "commercial"]
+  "tags": [
+    "infographic",
+    "beverage",
+    "product",
+    "commercial"
+  ],
+  "local_image": "assets/images/web-iced-coffee-product-infographic.jpg"
 }

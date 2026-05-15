@@ -12,5 +12,11 @@
     "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case151/output.jpg"
   ],
   "rights_notes": "Source repository declares CC0. Product brand in prompt appears fictional.",
-  "tags": ["product", "ecommerce", "miniature", "commercial"]
+  "tags": [
+    "product",
+    "ecommerce",
+    "miniature",
+    "commercial"
+  ],
+  "local_image": "assets/images/web-skincare-miniature-diorama.jpg"
 }

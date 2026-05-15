@@ -1,0 +1,22 @@
+{
+  "id": "imgedify-fluffy-swan",
+  "title": "Fluffy Swan Object",
+  "category": "illustration",
+  "model": "gpt4o / GPT Image style prompt",
+  "source_repository": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+  "source_url": "https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts",
+  "original_post_url": "https://x.com/gizakdag/status/1911781605569347976",
+  "author": "Gizem Akdag",
+  "license": "MIT",
+  "local_image": "assets/images/imgedify-fluffy-swan.jpeg",
+  "external_image_urls": [
+    "https://cdn.imgedify.com/imgedify/images/1744757090568-rtyh62sppd.jpeg"
+  ],
+  "rights_notes": "Imported from a public MIT-licensed prompt collection. Attribution retained.",
+  "tags": [
+    "illustration",
+    "3d",
+    "tactile",
+    "object"
+  ]
+}

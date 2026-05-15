@@ -12,5 +12,11 @@
     "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case1/output.jpg"
   ],
   "rights_notes": "Source repository declares CC0. This prompt depends on an external style reference.",
-  "tags": ["ui", "design-system", "mobile", "web"]
+  "tags": [
+    "ui",
+    "design-system",
+    "mobile",
+    "web"
+  ],
+  "local_image": "assets/images/web-one-prompt-ui-design-generation.jpg"
 }

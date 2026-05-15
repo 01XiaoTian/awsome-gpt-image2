@@ -1,0 +1,22 @@
+{
+  "id": "imgedify-low-poly-camel",
+  "title": "Low Poly Desert Camel",
+  "category": "illustration",
+  "model": "gpt4o / GPT Image style prompt",
+  "source_repository": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+  "source_url": "https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts",
+  "original_post_url": "https://x.com/azed_ai/status/1912084257918595342",
+  "author": "Amira Zairi",
+  "license": "MIT",
+  "local_image": "assets/images/imgedify-low-poly-camel.jpeg",
+  "external_image_urls": [
+    "https://cdn.imgedify.com/imgedify/images/1744757092419-xgwkh25sx4k.jpeg"
+  ],
+  "rights_notes": "Imported from a public MIT-licensed prompt collection. Attribution retained.",
+  "tags": [
+    "illustration",
+    "low-poly",
+    "3d",
+    "environment"
+  ]
+}

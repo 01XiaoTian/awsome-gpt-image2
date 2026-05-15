@@ -6,11 +6,23 @@
 
 ## Browse
 
+- [静态网站首页](index.html)
 - [完整画廊：按分类直接看图片和提示词摘要](GALLERY.md)
 - [案例索引 JSON](cases/index.json)
 - [提示词写作指南](docs/prompt-writing.md)
 - [分类规范](docs/taxonomy.md)
 - [外部来源与许可证](docs/sources.md)
+
+## Website
+
+仓库根目录包含一个轻量静态网站：
+
+- `index.html`：卡片式画廊、分类筛选、Prompt 详情抽屉
+- `assets/style.css`：页面样式
+- `assets/cases.json`：前端读取的结构化案例数据
+- `assets/images/`：已下载到本地的外部案例图片
+
+如果启用 GitHub Pages，选择从 `main` 分支根目录发布即可。
 
 ## Categories
 

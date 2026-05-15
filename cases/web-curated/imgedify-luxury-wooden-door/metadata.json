@@ -1,0 +1,22 @@
+{
+  "id": "imgedify-luxury-wooden-door",
+  "title": "Luxury Wooden Door Detail",
+  "category": "product",
+  "model": "gpt4o / GPT Image style prompt",
+  "source_repository": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+  "source_url": "https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts",
+  "original_post_url": "https://x.com/umesh_ai/status/1915243668870467950",
+  "author": "Umesh",
+  "license": "MIT",
+  "local_image": "assets/images/imgedify-luxury-wooden-door.jpeg",
+  "external_image_urls": [
+    "https://cdn.imgedify.com/imgedify/images/1745881819979-lopiam7p21.jpeg"
+  ],
+  "rights_notes": "Imported from a public MIT-licensed prompt collection. Attribution retained.",
+  "tags": [
+    "product",
+    "material",
+    "macro",
+    "photography"
+  ]
+}

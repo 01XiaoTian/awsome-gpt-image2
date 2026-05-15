@@ -12,7 +12,8 @@
       "anime",
       "action",
       "illustration"
-    ]
+    ],
+    "local_image": "assets/images/web-anime-martial-arts-battle.jpg"
   },
   {
     "id": "cyberpunk-delivery-girl",
@@ -55,6 +56,21 @@
       "storybook",
       "fantasy",
       "illustration"
+    ]
+  },
+  {
+    "id": "imgedify-blueprint-schematic",
+    "title": "Retro-Futuristic Blueprint Schematic",
+    "category": "diagram",
+    "path": "cases/web-curated/imgedify-blueprint-schematic",
+    "local_image": "assets/images/imgedify-blueprint-schematic.jpeg",
+    "source": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+    "license": "MIT",
+    "tags": [
+      "diagram",
+      "blueprint",
+      "industrial",
+      "vehicle"
     ]
   },
   {
@@ -133,6 +149,36 @@
     ]
   },
   {
+    "id": "imgedify-fluffy-swan",
+    "title": "Fluffy Swan Object",
+    "category": "illustration",
+    "path": "cases/web-curated/imgedify-fluffy-swan",
+    "local_image": "assets/images/imgedify-fluffy-swan.jpeg",
+    "source": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+    "license": "MIT",
+    "tags": [
+      "illustration",
+      "3d",
+      "tactile",
+      "object"
+    ]
+  },
+  {
+    "id": "imgedify-low-poly-camel",
+    "title": "Low Poly Desert Camel",
+    "category": "illustration",
+    "path": "cases/web-curated/imgedify-low-poly-camel",
+    "local_image": "assets/images/imgedify-low-poly-camel.jpeg",
+    "source": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+    "license": "MIT",
+    "tags": [
+      "illustration",
+      "low-poly",
+      "3d",
+      "environment"
+    ]
+  },
+  {
     "id": "warm-reading-nook",
     "title": "Warm Reading Nook",
     "category": "interior",
@@ -158,6 +204,21 @@
       "editorial",
       "food",
       "photography"
+    ]
+  },
+  {
+    "id": "imgedify-typographic-portrait",
+    "title": "Typographic Portrait",
+    "category": "portrait",
+    "path": "cases/web-curated/imgedify-typographic-portrait",
+    "local_image": "assets/images/imgedify-typographic-portrait.png",
+    "source": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+    "license": "MIT",
+    "tags": [
+      "portrait",
+      "typography",
+      "poster",
+      "experimental"
     ]
   },
   {
@@ -188,7 +249,8 @@
       "travel",
       "city",
       "illustration"
-    ]
+    ],
+    "local_image": "assets/images/web-boston-spring-city-poster.jpg"
   },
   {
     "id": "farmers-market-event-poster",
@@ -218,7 +280,8 @@
       "beverage",
       "product",
       "commercial"
-    ]
+    ],
+    "local_image": "assets/images/web-iced-coffee-product-infographic.jpg"
   },
   {
     "id": "web-illustrated-city-food-map",
@@ -233,7 +296,8 @@
       "food",
       "infographic",
       "watercolor"
-    ]
+    ],
+    "local_image": "assets/images/web-illustrated-city-food-map.jpg"
   },
   {
     "id": "jazz-night-poster",
@@ -321,6 +385,22 @@
       "watch",
       "luxury",
       "advertising"
+    ],
+    "local_image": "assets/images/web-luxury-chronograph-watch-ad.jpg"
+  },
+  {
+    "id": "imgedify-luxury-wooden-door",
+    "title": "Luxury Wooden Door Detail",
+    "category": "product",
+    "path": "cases/web-curated/imgedify-luxury-wooden-door",
+    "local_image": "assets/images/imgedify-luxury-wooden-door.jpeg",
+    "source": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+    "license": "MIT",
+    "tags": [
+      "product",
+      "material",
+      "macro",
+      "photography"
     ]
   },
   {
@@ -336,7 +416,8 @@
       "ecommerce",
       "miniature",
       "commercial"
-    ]
+    ],
+    "local_image": "assets/images/web-skincare-miniature-diorama.jpg"
   },
   {
     "id": "minimal-sneaker-ad",
@@ -382,6 +463,21 @@
     ]
   },
   {
+    "id": "imgedify-minimal-3d-icons",
+    "title": "Minimal 3D Icon Render",
+    "category": "ui",
+    "path": "cases/web-curated/imgedify-minimal-3d-icons",
+    "local_image": "assets/images/imgedify-minimal-3d-icons.jpeg",
+    "source": "ImgEdify/Awesome-GPT4o-Image-Prompts",
+    "license": "MIT",
+    "tags": [
+      "ui",
+      "icon",
+      "3d",
+      "minimal"
+    ]
+  },
+  {
     "id": "web-one-prompt-ui-design-generation",
     "title": "One-Prompt UI Design Generation",
     "category": "ui",
@@ -394,7 +490,8 @@
       "design-system",
       "mobile",
       "web"
-    ]
+    ],
+    "local_image": "assets/images/web-one-prompt-ui-design-generation.jpg"
   },
   {
     "id": "travel-booking-mobile-flow",

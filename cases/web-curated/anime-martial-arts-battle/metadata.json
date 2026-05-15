@@ -13,5 +13,11 @@
     "https://cms-assets.youmind.com/media/1776756799880_c8u8w7_HGUKjjaasAAvVRa.jpg"
   ],
   "rights_notes": "Source repository declares CC BY 4.0. Attribution retained in prompt.md and metadata.json.",
-  "tags": ["character", "anime", "action", "illustration"]
+  "tags": [
+    "character",
+    "anime",
+    "action",
+    "illustration"
+  ],
+  "local_image": "assets/images/web-anime-martial-arts-battle.jpg"
 }
