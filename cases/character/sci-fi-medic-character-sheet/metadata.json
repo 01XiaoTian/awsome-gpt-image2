@@ -1,0 +1,20 @@
+{
+  "id": "sci-fi-medic-character-sheet",
+  "title": "Sci-Fi Medic Character Sheet",
+  "category": "character",
+  "model": "GPT Image 2",
+  "created_at": "2026-05-15",
+  "aspect_ratio": "16:9",
+  "style": "game character sheet",
+  "license": "CC BY 4.0",
+  "source": "original",
+  "tags": [
+    "character",
+    "sci-fi",
+    "game",
+    "sheet"
+  ],
+  "image_files": [
+    "preview.svg"
+  ]
+}

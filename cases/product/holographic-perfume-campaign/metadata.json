@@ -1,0 +1,20 @@
+{
+  "id": "holographic-perfume-campaign",
+  "title": "Holographic Perfume Campaign",
+  "category": "product",
+  "model": "GPT Image 2",
+  "created_at": "2026-05-15",
+  "aspect_ratio": "1:1",
+  "style": "luxury fragrance campaign",
+  "license": "CC BY 4.0",
+  "source": "original",
+  "tags": [
+    "product",
+    "fragrance",
+    "luxury",
+    "campaign"
+  ],
+  "image_files": [
+    "preview.svg"
+  ]
+}

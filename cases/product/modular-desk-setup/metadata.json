@@ -1,0 +1,20 @@
+{
+  "id": "modular-desk-setup",
+  "title": "Modular Desk Setup",
+  "category": "product",
+  "model": "GPT Image 2",
+  "created_at": "2026-05-15",
+  "aspect_ratio": "16:9",
+  "style": "realistic workspace product photography",
+  "license": "CC BY 4.0",
+  "source": "original",
+  "tags": [
+    "product",
+    "workspace",
+    "minimal",
+    "tech"
+  ],
+  "image_files": [
+    "preview.svg"
+  ]
+}

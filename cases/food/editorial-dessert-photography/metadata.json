@@ -1,0 +1,20 @@
+{
+  "id": "editorial-dessert-photography",
+  "title": "Editorial Dessert Photography",
+  "category": "food",
+  "model": "GPT Image 2",
+  "created_at": "2026-05-15",
+  "aspect_ratio": "4:5",
+  "style": "fine dining food photography",
+  "license": "CC BY 4.0",
+  "source": "original",
+  "tags": [
+    "food",
+    "dessert",
+    "photography",
+    "editorial"
+  ],
+  "image_files": [
+    "preview.svg"
+  ]
+}

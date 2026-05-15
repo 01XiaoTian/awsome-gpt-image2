@@ -1,0 +1,20 @@
+{
+  "id": "museum-exhibition-key-visual",
+  "title": "Museum Exhibition Key Visual",
+  "category": "poster",
+  "model": "GPT Image 2",
+  "created_at": "2026-05-15",
+  "aspect_ratio": "3:4",
+  "style": "museum campaign key visual",
+  "license": "CC BY 4.0",
+  "source": "original",
+  "tags": [
+    "poster",
+    "museum",
+    "campaign",
+    "minimal"
+  ],
+  "image_files": [
+    "preview.svg"
+  ]
+}

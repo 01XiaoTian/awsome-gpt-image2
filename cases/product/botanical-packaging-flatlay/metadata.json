@@ -1,0 +1,20 @@
+{
+  "id": "botanical-packaging-flatlay",
+  "title": "Botanical Packaging Flatlay",
+  "category": "product",
+  "model": "GPT Image 2",
+  "created_at": "2026-05-15",
+  "aspect_ratio": "3:2",
+  "style": "sustainable packaging flat lay",
+  "license": "CC BY 4.0",
+  "source": "original",
+  "tags": [
+    "product",
+    "packaging",
+    "sustainable",
+    "flat-lay"
+  ],
+  "image_files": [
+    "preview.svg"
+  ]
+}

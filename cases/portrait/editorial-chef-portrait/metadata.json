@@ -1,0 +1,20 @@
+{
+  "id": "editorial-chef-portrait",
+  "title": "Editorial Chef Portrait",
+  "category": "portrait",
+  "model": "GPT Image 2",
+  "created_at": "2026-05-15",
+  "aspect_ratio": "4:5",
+  "style": "editorial portrait photography",
+  "license": "CC BY 4.0",
+  "source": "original",
+  "tags": [
+    "portrait",
+    "editorial",
+    "food",
+    "photography"
+  ],
+  "image_files": [
+    "preview.svg"
+  ]
+}

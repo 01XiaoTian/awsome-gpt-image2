@@ -1,0 +1,20 @@
+{
+  "id": "travel-booking-mobile-flow",
+  "title": "Travel Booking Mobile Flow",
+  "category": "ui",
+  "model": "GPT Image 2",
+  "created_at": "2026-05-15",
+  "aspect_ratio": "16:9",
+  "style": "mobile app screen set",
+  "license": "CC BY 4.0",
+  "source": "original",
+  "tags": [
+    "ui",
+    "mobile",
+    "travel",
+    "booking"
+  ],
+  "image_files": [
+    "preview.svg"
+  ]
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Isometric Farm Game Scene</title>
+  <desc id="desc">Stylized preview image for the Isometric Farm Game Scene prompt case.</desc>
+  <rect width="1200" height="800" fill="#dff0c2"/>
+  <rect x="58" y="58" width="1084" height="684" rx="28" fill="#ffffff" opacity=".45"/>
+  <circle cx="940" cy="210" r="142" fill="#d49b54" opacity=".32"/>
+  <circle cx="244" cy="602" r="174" fill="#6a9b58" opacity=".18"/>
+  <rect x="130" y="150" width="430" height="300" rx="28" fill="#6a9b58"/>
+  <rect x="182" y="204" width="326" height="34" rx="17" fill="#dff0c2" opacity=".9"/>
+  <rect x="182" y="272" width="250" height="26" rx="13" fill="#d49b54" opacity=".9"/>
+  <rect x="182" y="326" width="302" height="26" rx="13" fill="#d49b54" opacity=".55"/>
+  <path d="M668 520c60-168 152-252 276-252s196 84 216 252H668z" fill="#7fb6c7" opacity=".92"/>
+  <path d="M700 520c44-104 122-156 235-156 96 0 164 52 204 156H700z" fill="#d49b54" opacity=".76"/>
+  <path d="M155 560h520" stroke="#7fb6c7" stroke-width="18" stroke-linecap="round" opacity=".2"/>
+  <text x="130" y="625" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#7fb6c7">Isometric Farm Game Scene</text>
+  <text x="132" y="680" font-family="Arial, sans-serif" font-size="25" fill="#7fb6c7" opacity=".72">game / cozy isometric game art</text>
+</svg>

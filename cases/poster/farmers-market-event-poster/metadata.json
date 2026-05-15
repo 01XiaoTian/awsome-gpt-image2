@@ -1,0 +1,20 @@
+{
+  "id": "farmers-market-event-poster",
+  "title": "Farmers Market Event Poster",
+  "category": "poster",
+  "model": "GPT Image 2",
+  "created_at": "2026-05-15",
+  "aspect_ratio": "2:3",
+  "style": "risograph event poster",
+  "license": "CC BY 4.0",
+  "source": "original",
+  "tags": [
+    "poster",
+    "event",
+    "risograph",
+    "food"
+  ],
+  "image_files": [
+    "preview.svg"
+  ]
+}

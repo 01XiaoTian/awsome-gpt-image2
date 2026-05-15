@@ -1,11 +1,18 @@
 [
   {
-    "id": "minimal-sneaker-ad",
-    "title": "Minimal Sneaker Ad",
-    "category": "product",
-    "path": "cases/product/minimal-sneaker-ad",
-    "preview": "cases/product/minimal-sneaker-ad/preview.svg",
-    "tags": ["product", "studio-light", "minimal", "ecommerce"]
+    "id": "web-anime-martial-arts-battle",
+    "title": "Anime Martial Arts Battle Illustration",
+    "category": "character",
+    "path": "cases/web-curated/anime-martial-arts-battle",
+    "external_preview": "https://cms-assets.youmind.com/media/1776756799880_c8u8w7_HGUKjjaasAAvVRa.jpg",
+    "source": "YouMind-OpenLab/awesome-gpt-image-2",
+    "license": "CC BY 4.0",
+    "tags": [
+      "character",
+      "anime",
+      "action",
+      "illustration"
+    ]
   },
   {
     "id": "cyberpunk-delivery-girl",
@@ -13,7 +20,117 @@
     "category": "character",
     "path": "cases/character/cyberpunk-delivery-girl",
     "preview": "cases/character/cyberpunk-delivery-girl/preview.svg",
-    "tags": ["character", "neon", "cinematic", "game"]
+    "tags": [
+      "character",
+      "neon",
+      "cinematic",
+      "game"
+    ]
+  },
+  {
+    "id": "sci-fi-medic-character-sheet",
+    "title": "Sci-Fi Medic Character Sheet",
+    "category": "character",
+    "path": "cases/character/sci-fi-medic-character-sheet",
+    "preview": "cases/character/sci-fi-medic-character-sheet/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "character",
+      "sci-fi",
+      "game",
+      "sheet"
+    ]
+  },
+  {
+    "id": "storybook-forest-guide",
+    "title": "Storybook Forest Guide",
+    "category": "character",
+    "path": "cases/character/storybook-forest-guide",
+    "preview": "cases/character/storybook-forest-guide/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "character",
+      "storybook",
+      "fantasy",
+      "illustration"
+    ]
+  },
+  {
+    "id": "science-paper-figure",
+    "title": "Science Paper Figure",
+    "category": "diagram",
+    "path": "cases/diagram/science-paper-figure",
+    "preview": "cases/diagram/science-paper-figure/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "diagram",
+      "science",
+      "paper",
+      "education"
+    ]
+  },
+  {
+    "id": "streetwear-lookbook-spread",
+    "title": "Streetwear Lookbook Spread",
+    "category": "fashion",
+    "path": "cases/fashion/streetwear-lookbook-spread",
+    "preview": "cases/fashion/streetwear-lookbook-spread/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "fashion",
+      "lookbook",
+      "streetwear",
+      "editorial"
+    ]
+  },
+  {
+    "id": "editorial-dessert-photography",
+    "title": "Editorial Dessert Photography",
+    "category": "food",
+    "path": "cases/food/editorial-dessert-photography",
+    "preview": "cases/food/editorial-dessert-photography/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "food",
+      "dessert",
+      "photography",
+      "editorial"
+    ]
+  },
+  {
+    "id": "isometric-farm-game-scene",
+    "title": "Isometric Farm Game Scene",
+    "category": "game",
+    "path": "cases/game/isometric-farm-game-scene",
+    "preview": "cases/game/isometric-farm-game-scene/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "game",
+      "isometric",
+      "cozy",
+      "environment"
+    ]
+  },
+  {
+    "id": "comic-page-silent-scene",
+    "title": "Comic Page Silent Scene",
+    "category": "illustration",
+    "path": "cases/illustration/comic-page-silent-scene",
+    "preview": "cases/illustration/comic-page-silent-scene/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "illustration",
+      "comic",
+      "storytelling",
+      "sequential"
+    ]
   },
   {
     "id": "warm-reading-nook",
@@ -21,35 +138,42 @@
     "category": "interior",
     "path": "cases/interior/warm-reading-nook",
     "preview": "cases/interior/warm-reading-nook/preview.svg",
-    "tags": ["interior", "warm", "lifestyle", "editorial"]
+    "tags": [
+      "interior",
+      "warm",
+      "lifestyle",
+      "editorial"
+    ]
   },
   {
-    "id": "jazz-night-poster",
-    "title": "Jazz Night Poster",
+    "id": "editorial-chef-portrait",
+    "title": "Editorial Chef Portrait",
+    "category": "portrait",
+    "path": "cases/portrait/editorial-chef-portrait",
+    "preview": "cases/portrait/editorial-chef-portrait/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "portrait",
+      "editorial",
+      "food",
+      "photography"
+    ]
+  },
+  {
+    "id": "architectural-section-poster",
+    "title": "Architectural Section Poster",
     "category": "poster",
-    "path": "cases/poster/jazz-night-poster",
-    "preview": "cases/poster/jazz-night-poster/preview.svg",
-    "tags": ["poster", "music", "branding", "vintage"]
-  },
-  {
-    "id": "web-skincare-miniature-diorama",
-    "title": "Miniature Diorama Skincare Advertisement",
-    "category": "product",
-    "path": "cases/web-curated/skincare-miniature-diorama",
-    "external_preview": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case151/output.jpg",
-    "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "license": "CC0-1.0",
-    "tags": ["product", "ecommerce", "miniature", "commercial"]
-  },
-  {
-    "id": "web-luxury-chronograph-watch-ad",
-    "title": "Luxury Chronograph Watch Ad",
-    "category": "product",
-    "path": "cases/web-curated/luxury-chronograph-watch-ad",
-    "external_preview": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case144/output.jpg",
-    "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "license": "CC0-1.0",
-    "tags": ["product", "watch", "luxury", "advertising"]
+    "path": "cases/poster/architectural-section-poster",
+    "preview": "cases/poster/architectural-section-poster/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "poster",
+      "architecture",
+      "section",
+      "editorial"
+    ]
   },
   {
     "id": "web-boston-spring-city-poster",
@@ -59,7 +183,27 @@
     "external_preview": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case1/output.jpg",
     "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
     "license": "CC0-1.0",
-    "tags": ["poster", "travel", "city", "illustration"]
+    "tags": [
+      "poster",
+      "travel",
+      "city",
+      "illustration"
+    ]
+  },
+  {
+    "id": "farmers-market-event-poster",
+    "title": "Farmers Market Event Poster",
+    "category": "poster",
+    "path": "cases/poster/farmers-market-event-poster",
+    "preview": "cases/poster/farmers-market-event-poster/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "poster",
+      "event",
+      "risograph",
+      "food"
+    ]
   },
   {
     "id": "web-iced-coffee-product-infographic",
@@ -69,17 +213,12 @@
     "external_preview": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case170/output.jpg",
     "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
     "license": "CC0-1.0",
-    "tags": ["infographic", "beverage", "product", "commercial"]
-  },
-  {
-    "id": "web-one-prompt-ui-design-generation",
-    "title": "One-Prompt UI Design Generation",
-    "category": "ui",
-    "path": "cases/web-curated/one-prompt-ui-design-generation",
-    "external_preview": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case1/output.jpg",
-    "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "license": "CC0-1.0",
-    "tags": ["ui", "design-system", "mobile", "web"]
+    "tags": [
+      "infographic",
+      "beverage",
+      "product",
+      "commercial"
+    ]
   },
   {
     "id": "web-illustrated-city-food-map",
@@ -89,16 +228,187 @@
     "external_preview": "https://cms-assets.youmind.com/media/1776662673014_nf0taw_HGRMNDybsAAGG88.jpg",
     "source": "YouMind-OpenLab/awesome-gpt-image-2",
     "license": "CC BY 4.0",
-    "tags": ["map", "food", "infographic", "watercolor"]
+    "tags": [
+      "map",
+      "food",
+      "infographic",
+      "watercolor"
+    ]
   },
   {
-    "id": "web-anime-martial-arts-battle",
-    "title": "Anime Martial Arts Battle Illustration",
-    "category": "character",
-    "path": "cases/web-curated/anime-martial-arts-battle",
-    "external_preview": "https://cms-assets.youmind.com/media/1776756799880_c8u8w7_HGUKjjaasAAvVRa.jpg",
-    "source": "YouMind-OpenLab/awesome-gpt-image-2",
+    "id": "jazz-night-poster",
+    "title": "Jazz Night Poster",
+    "category": "poster",
+    "path": "cases/poster/jazz-night-poster",
+    "preview": "cases/poster/jazz-night-poster/preview.svg",
+    "tags": [
+      "poster",
+      "music",
+      "branding",
+      "vintage"
+    ]
+  },
+  {
+    "id": "museum-exhibition-key-visual",
+    "title": "Museum Exhibition Key Visual",
+    "category": "poster",
+    "path": "cases/poster/museum-exhibition-key-visual",
+    "preview": "cases/poster/museum-exhibition-key-visual/preview.svg",
+    "source": "original",
     "license": "CC BY 4.0",
-    "tags": ["character", "anime", "action", "illustration"]
+    "tags": [
+      "poster",
+      "museum",
+      "campaign",
+      "minimal"
+    ]
+  },
+  {
+    "id": "botanical-packaging-flatlay",
+    "title": "Botanical Packaging Flatlay",
+    "category": "product",
+    "path": "cases/product/botanical-packaging-flatlay",
+    "preview": "cases/product/botanical-packaging-flatlay/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "product",
+      "packaging",
+      "sustainable",
+      "flat-lay"
+    ]
+  },
+  {
+    "id": "ceramic-tea-set-hero",
+    "title": "Ceramic Tea Set Hero",
+    "category": "product",
+    "path": "cases/product/ceramic-tea-set-hero",
+    "preview": "cases/product/ceramic-tea-set-hero/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "product",
+      "ceramic",
+      "still-life",
+      "editorial"
+    ]
+  },
+  {
+    "id": "holographic-perfume-campaign",
+    "title": "Holographic Perfume Campaign",
+    "category": "product",
+    "path": "cases/product/holographic-perfume-campaign",
+    "preview": "cases/product/holographic-perfume-campaign/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "product",
+      "fragrance",
+      "luxury",
+      "campaign"
+    ]
+  },
+  {
+    "id": "web-luxury-chronograph-watch-ad",
+    "title": "Luxury Chronograph Watch Ad",
+    "category": "product",
+    "path": "cases/web-curated/luxury-chronograph-watch-ad",
+    "external_preview": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case144/output.jpg",
+    "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+    "license": "CC0-1.0",
+    "tags": [
+      "product",
+      "watch",
+      "luxury",
+      "advertising"
+    ]
+  },
+  {
+    "id": "web-skincare-miniature-diorama",
+    "title": "Miniature Diorama Skincare Advertisement",
+    "category": "product",
+    "path": "cases/web-curated/skincare-miniature-diorama",
+    "external_preview": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case151/output.jpg",
+    "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+    "license": "CC0-1.0",
+    "tags": [
+      "product",
+      "ecommerce",
+      "miniature",
+      "commercial"
+    ]
+  },
+  {
+    "id": "minimal-sneaker-ad",
+    "title": "Minimal Sneaker Ad",
+    "category": "product",
+    "path": "cases/product/minimal-sneaker-ad",
+    "preview": "cases/product/minimal-sneaker-ad/preview.svg",
+    "tags": [
+      "product",
+      "studio-light",
+      "minimal",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "modular-desk-setup",
+    "title": "Modular Desk Setup",
+    "category": "product",
+    "path": "cases/product/modular-desk-setup",
+    "preview": "cases/product/modular-desk-setup/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "product",
+      "workspace",
+      "minimal",
+      "tech"
+    ]
+  },
+  {
+    "id": "finance-dashboard-dark-mode",
+    "title": "Finance Dashboard Dark Mode",
+    "category": "ui",
+    "path": "cases/ui/finance-dashboard-dark-mode",
+    "preview": "cases/ui/finance-dashboard-dark-mode/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "ui",
+      "dashboard",
+      "finance",
+      "saas"
+    ]
+  },
+  {
+    "id": "web-one-prompt-ui-design-generation",
+    "title": "One-Prompt UI Design Generation",
+    "category": "ui",
+    "path": "cases/web-curated/one-prompt-ui-design-generation",
+    "external_preview": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case1/output.jpg",
+    "source": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+    "license": "CC0-1.0",
+    "tags": [
+      "ui",
+      "design-system",
+      "mobile",
+      "web"
+    ]
+  },
+  {
+    "id": "travel-booking-mobile-flow",
+    "title": "Travel Booking Mobile Flow",
+    "category": "ui",
+    "path": "cases/ui/travel-booking-mobile-flow",
+    "preview": "cases/ui/travel-booking-mobile-flow/preview.svg",
+    "source": "original",
+    "license": "CC BY 4.0",
+    "tags": [
+      "ui",
+      "mobile",
+      "travel",
+      "booking"
+    ]
   }
 ]

@@ -1,0 +1,20 @@
+{
+  "id": "isometric-farm-game-scene",
+  "title": "Isometric Farm Game Scene",
+  "category": "game",
+  "model": "GPT Image 2",
+  "created_at": "2026-05-15",
+  "aspect_ratio": "1:1",
+  "style": "cozy isometric game art",
+  "license": "CC BY 4.0",
+  "source": "original",
+  "tags": [
+    "game",
+    "isometric",
+    "cozy",
+    "environment"
+  ],
+  "image_files": [
+    "preview.svg"
+  ]
+}

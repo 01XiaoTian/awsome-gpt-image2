@@ -1,0 +1,20 @@
+{
+  "id": "ceramic-tea-set-hero",
+  "title": "Ceramic Tea Set Hero",
+  "category": "product",
+  "model": "GPT Image 2",
+  "created_at": "2026-05-15",
+  "aspect_ratio": "4:5",
+  "style": "editorial product still life",
+  "license": "CC BY 4.0",
+  "source": "original",
+  "tags": [
+    "product",
+    "ceramic",
+    "still-life",
+    "editorial"
+  ],
+  "image_files": [
+    "preview.svg"
+  ]
+}
